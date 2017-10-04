@@ -1,0 +1,3358 @@
+str_of_words,is_person,type
+Patagonia,0,geo_regions
+Münsterland,0,geo_regions
+Chilean Antarctic Territory,0,geo_regions
+Western New Guinea,0,geo_regions
+Sauerland,0,geo_regions
+West Africa,0,geo_regions
+Siberia,0,geo_regions
+Middle East,0,geo_regions
+Volhynia,0,geo_regions
+Upper Lusatia,0,geo_regions
+Westphalia,0,geo_regions
+Achterhook,0,geo_regions
+Lesser Poland,0,geo_regions
+Southeast Asia,0,geo_regions
+Latin America,0,geo_regions
+Pacific Northwest,0,geo_regions
+Western United States,0,geo_regions
+La Franja,0,geo_regions
+Northern Catalonia,0,geo_regions
+Four Corners,0,geo_regions
+Tibet,0,geo_regions
+Korea,0,geo_regions
+Caucasus,0,geo_regions
+Svaneti,0,geo_regions
+Samegrelo,0,geo_regions
+Mainland China,0,geo_regions
+Langhe,0,geo_regions
+Montferrat,0,geo_regions
+Roero,0,geo_regions
+Scandinavia,0,geo_regions
+Kurpfalz,0,geo_regions
+Vorderpfalz,0,geo_regions
+Sickingen Heights,0,geo_regions
+Palestine,0,geo_regions
+Northeastern United States,0,geo_regions
+Jutland,0,geo_regions
+Duchy of Schleswig,0,geo_regions
+Alentejo,0,geo_regions
+Algarve,0,geo_regions
+East Asia,0,geo_regions
+Northeast Asia,0,geo_regions
+Central Asia,0,geo_regions
+Western Asia,0,geo_regions
+North Asia,0,geo_regions
+Anglo-America,0,geo_regions
+North Africa,0,geo_regions
+Southern Africa,0,geo_regions
+East Africa,0,geo_regions
+Central Africa,0,geo_regions
+Southern Europe,0,geo_regions
+Eastern Europe,0,geo_regions
+Northern Europe,0,geo_regions
+Western Europe,0,geo_regions
+Central Europe,0,geo_regions
+Caribbean Netherlands,0,geo_regions
+Cambria,0,geo_regions
+Maghreb,0,geo_regions
+Theban Necropolis,0,geo_regions
+Corduene,0,geo_regions
+Middle America,0,geo_regions
+East Frisian Peninsula,0,geo_regions
+Southern Ireland,0,geo_regions
+Illyria,0,geo_regions
+Eastern Shore of Maryland,0,geo_regions
+Lusatia,0,geo_regions
+Qaidam Basin,0,geo_regions
+Polynesia,0,geo_regions
+West Bank,0,geo_regions
+Melanesia,0,geo_regions
+North Caucasus,0,geo_regions
+Bohemia,0,geo_regions
+Transylvania,0,geo_regions
+Kurdistan,0,geo_regions
+tropics,0,geo_regions
+Moravia,0,geo_regions
+Nagorno-Karabakh,0,geo_regions
+Australasia,0,geo_regions
+Kabylie,0,geo_regions
+Southern Germany,0,geo_regions
+Northern Germany,0,geo_regions
+Middle East,0,geo_regions
+Galactic corona,0,geo_regions
+Lapland,0,geo_regions
+Sahel,0,geo_regions
+Sopraceneri,0,geo_regions
+Sottoceneri,0,geo_regions
+Canadian Shield,0,geo_regions
+Bengal,0,geo_regions
+Manchuria,0,geo_regions
+Levant,0,geo_regions
+Silesia,0,geo_regions
+Macedonia,0,geo_regions
+Wallonia,0,geo_regions
+Galilee,0,geo_regions
+Provence,0,geo_regions
+Holland,0,geo_regions
+Judea,0,geo_regions
+Pomerania,0,geo_regions
+Bukovina,0,geo_regions
+Macaronesia,0,geo_regions
+Mecklenburg,0,geo_regions
+Dilmun,0,geo_regions
+New World,0,geo_regions
+Cape Lopez,0,geo_regions
+Bactria,0,geo_regions
+Sub-Saharan Africa,0,geo_regions
+Nubia,0,geo_regions
+Kemp Land,0,geo_regions
+Ogaden,0,geo_regions
+Zagłębie Dąbrowskie,0,geo_regions
+Pennsylvania Dutch Country,0,geo_regions
+Lika,0,geo_regions
+Portuguese Timor,0,geo_regions
+Arab World,0,geo_regions
+Emsland,0,geo_regions
+Kashubia,0,geo_regions
+Sorica,0,geo_regions
+Lower Lusatia,0,geo_regions
+Franconia,0,geo_regions
+Rhineland,0,geo_regions
+Eifel,0,geo_regions
+Bergisches Land,0,geo_regions
+Tyrol,0,geo_regions
+Dornbusch,0,geo_regions
+Friuli,0,geo_regions
+Klaipėda Region,0,geo_regions
+Canaan,0,geo_regions
+Turan,0,geo_regions
+Cyrenaica,0,geo_regions
+East Frisia,0,geo_regions
+Thessaly,0,geo_regions
+Punjab,0,geo_regions
+Allgäu,0,geo_regions
+Banat,0,geo_regions
+Eastern Bloc,0,geo_regions
+East Thrace,0,geo_regions
+"Middlesex County, Jamaica",0,geo_regions
+Dar al-Manasir,0,geo_regions
+Val di Noto,0,geo_regions
+Tibetan Plateau,0,geo_regions
+Balochistan,0,geo_regions
+Eastern Ukraine,0,geo_regions
+Western Germany,0,geo_regions
+Fadhli Sultanate,0,geo_regions
+Khwarezm,0,geo_regions
+Transoxiana,0,geo_regions
+Livonia,0,geo_regions
+Magna Graecia,0,geo_regions
+Zeelandic Flanders,0,geo_regions
+Courland,0,geo_regions
+Midwestern United States,0,geo_regions
+Sarrabus-Gerrei,0,geo_regions
+Central Alberta,0,geo_regions
+Queen Maud Land,0,geo_regions
+Central Arabia,0,geo_regions
+Central Plain,0,geo_regions
+Central Greece,0,geo_regions
+Central Croatia,0,geo_regions
+Konia Kshetra,0,geo_regions
+Tripolitania,0,geo_regions
+Vinland,0,geo_regions
+Sudetenland,0,geo_regions
+Ziel-1-Region,0,geo_regions
+Ziel-2-Region,0,geo_regions
+Ladakh,0,geo_regions
+Üechtland,0,geo_regions
+Ross Dependency,0,geo_regions
+Upper Egypt,0,geo_regions
+Heinzenberg,0,geo_regions
+Iraqi Kurdistan,0,geo_regions
+Southern Italy,0,geo_regions
+Najd,0,geo_regions
+Victoria Land,0,geo_regions
+Moldavia,0,geo_regions
+Bačka,0,geo_regions
+East Indies,0,geo_regions
+Unterwalden,0,geo_regions
+Zemgale,0,geo_regions
+Styria,0,geo_regions
+Cappadocia,0,geo_regions
+Pantasma,0,geo_regions
+Waldviertel,0,geo_regions
+South Limburg,0,geo_regions
+Països Catalans,0,geo_regions
+Southern Cone,0,geo_regions
+Zwischeneuropa,0,geo_regions
+Free area of the Republic of China,0,geo_regions
+Atlantic Canada,0,geo_regions
+Zürcher Unterland,0,geo_regions
+Zürichgau,0,geo_regions
+New Swabia,0,geo_regions
+Bavarian Alpine Foreland,0,geo_regions
+Q258104,0,geo_regions
+South Baden,0,geo_regions
+Mostviertel,0,geo_regions
+Farther Pomerania,0,geo_regions
+Southeast Europe,0,geo_regions
+Salzkammergut,0,geo_regions
+Upper Styria,0,geo_regions
+Oesling,0,geo_regions
+Q298979,0,geo_regions
+Q307066,0,geo_regions
+Upper Mesopotamia,0,geo_regions
+Tal der Ahnungslosen,0,geo_regions
+Upper Harz,0,geo_regions
+Q317108,0,geo_regions
+Oldenburg Münsterland,0,geo_regions
+Warmia,0,geo_regions
+Q324282,0,geo_regions
+Pomerelia,0,geo_regions
+Palatinate,0,geo_regions
+County of Moers,0,geo_regions
+Alpgau,0,geo_regions
+Oldenburg Land,0,geo_regions
+Swiss Plateau,0,geo_regions
+Acadiana,0,geo_regions
+Eastern Slovakia,0,geo_regions
+Riverland,0,geo_regions
+Unteraargau,0,geo_regions
+Hokuriku region,0,geo_regions
+Farther India,0,geo_regions
+agricultural triangle,0,geo_regions
+hemisphere of the Earth,0,geo_regions
+Ajoie,0,geo_regions
+Central Highlands of Sri Lanka,0,geo_regions
+Q425875,0,geo_regions
+Ark-La-Tex,0,geo_regions
+Gooi,0,geo_regions
+Old states of Germany,0,geo_regions
+Alte Landschaft,0,geo_regions
+Altmark,0,geo_regions
+Lower Rhine,0,geo_regions
+Lower Egypt,0,geo_regions
+Giudicarie,0,geo_regions
+Bernese Oberland,0,geo_regions
+Puntland,0,geo_regions
+Ostwestfalen-Lippe,0,geo_regions
+Southeastern Maritime Industrial Region,0,geo_regions
+Dzūkija,0,geo_regions
+Judea and Samaria Area,0,geo_regions
+Costa del Maresme,0,geo_regions
+Central Germany,0,geo_regions
+Insular Italy,0,geo_regions
+Mountain States,0,geo_regions
+West Antarctica,0,geo_regions
+South India,0,geo_regions
+Arabia Felix,0,geo_regions
+Hen Ogledd,0,geo_regions
+Malwa,0,geo_regions
+Barðaströnd,0,geo_regions
+Quita Sueño Bank,0,geo_regions
+Q560771,0,geo_regions
+Markgräflerland,0,geo_regions
+Vidarbha,0,geo_regions
+Mühlviertel,0,geo_regions
+Q575374,0,geo_regions
+Q578002,0,geo_regions
+Northeast Italy,0,geo_regions
+Baltic region,0,geo_regions
+Duchy of Styria,0,geo_regions
+Siegerland,0,geo_regions
+East Anglia,0,geo_regions
+Russian North,0,geo_regions
+Northern Virginia,0,geo_regions
+New Territories,0,geo_regions
+Klondike,0,geo_regions
+Fennoscandia,0,geo_regions
+Donbass,0,geo_regions
+Wilkes Land,0,geo_regions
+Graham Land,0,geo_regions
+Cilicia,0,geo_regions
+Ordos Loop,0,geo_regions
+Pisidia,0,geo_regions
+Tonkin,0,geo_regions
+Wasatch Front,0,geo_regions
+Mid-Atlantic States,0,geo_regions
+Transbaikal,0,geo_regions
+Argentine Antarctica,0,geo_regions
+Q650370,0,geo_regions
+Kennemerland,0,geo_regions
+Kop van Overijssel,0,geo_regions
+Caribbean,0,geo_regions
+Malcantone,0,geo_regions
+La Côte,0,geo_regions
+Blue Mountains,0,geo_regions
+West Indies,0,geo_regions
+Fricktal,0,geo_regions
+New states of Germany,0,geo_regions
+Q675581,0,geo_regions
+Northwestern Switzerland,0,geo_regions
+Flaming Cliffs,0,geo_regions
+Ravensberg Basin,0,geo_regions
+Tori,0,geo_regions
+West Galicia,0,geo_regions
+Oberaargau,0,geo_regions
+Birseck,0,geo_regions
+Lavaux,0,geo_regions
+German-speaking Switzerland,0,geo_regions
+Breisgau,0,geo_regions
+Piano di Magadino,0,geo_regions
+Kelleramt,0,geo_regions
+Wairarapa,0,geo_regions
+Buchsgau,0,geo_regions
+Darß,0,geo_regions
+Q694291,0,geo_regions
+Lands of the Crown of Saint Stephen,0,geo_regions
+Traunviertel,0,geo_regions
+Innviertel,0,geo_regions
+Industrieviertel,0,geo_regions
+Former eastern territories of Germany,0,geo_regions
+Hausruckviertel,0,geo_regions
+Weinviertel,0,geo_regions
+Mecklenburg Lake District,0,geo_regions
+Franconian Switzerland,0,geo_regions
+Southern Schleswig,0,geo_regions
+Rhenish Hesse,0,geo_regions
+Hallertau,0,geo_regions
+Kwannam,0,geo_regions
+Sinuiju Special Administrative Region,0,geo_regions
+Sinosphere,0,geo_regions
+Coteau du Missouri,0,geo_regions
+Kaiser Wilhelm II Land,0,geo_regions
+Frickgau,0,geo_regions
+Augstgau,0,geo_regions
+Coats Land,0,geo_regions
+Denderstreek,0,geo_regions
+Vardar Statistical Region,0,geo_regions
+Q745189,0,geo_regions
+Vidzeme,0,geo_regions
+Marie Byrd Land,0,geo_regions
+Mayombe,0,geo_regions
+Q750964,0,geo_regions
+Intertropical Convergence Zone,0,geo_regions
+Chhachh,0,geo_regions
+Northern Canada,0,geo_regions
+Senne,0,geo_regions
+Research Triangle,0,geo_regions
+South Asia,0,geo_regions
+Sabina,0,geo_regions
+Baltics,0,geo_regions
+Baltistan,0,geo_regions
+Bang Assu,0,geo_regions
+Bangsamoro,0,geo_regions
+Banovina,0,geo_regions
+Masuria,0,geo_regions
+Metohija,0,geo_regions
+Bergstraße,0,geo_regions
+Sunshine Coast,0,geo_regions
+Besengau,0,geo_regions
+Ems Dollart Region,0,geo_regions
+Nassau-Diez,0,geo_regions
+Westallgäu,0,geo_regions
+Neutral Ground,0,geo_regions
+Litoral Department,0,geo_regions
+Sepik,0,geo_regions
+Midlands,0,geo_regions
+Fouta Djallon,0,geo_regions
+Betuwe,0,geo_regions
+Périgord,0,geo_regions
+Austronesia,0,geo_regions
+Wo Hop Shek,0,geo_regions
+East Antarctica,0,geo_regions
+Kurdufan,0,geo_regions
+Chablais,0,geo_regions
+European Russia,0,geo_regions
+Q879507,0,geo_regions
+Q881875,0,geo_regions
+Q882669,0,geo_regions
+Lower Hesse,0,geo_regions
+Calenberg Land,0,geo_regions
+Q884805,0,geo_regions
+Sandal Bar,0,geo_regions
+Borchali,0,geo_regions
+Upland,0,geo_regions
+Upper Hesse,0,geo_regions
+Q897042,0,geo_regions
+High Eifel,0,geo_regions
+Hotzenwald,0,geo_regions
+Havelland,0,geo_regions
+Central and Eastern Europe,0,geo_regions
+Kwanbuk,0,geo_regions
+Surmeir,0,geo_regions
+Prussia,0,geo_regions
+eastern Germany,0,geo_regions
+Tornado Alley,0,geo_regions
+Río de Oro,0,geo_regions
+Murray Mallee,0,geo_regions
+Dropull,0,geo_regions
+catchment area,0,geo_regions
+Kurd-Dagh,0,geo_regions
+Connemara,0,geo_regions
+Westhoek,0,geo_regions
+Khevsureti,0,geo_regions
+Gallura,0,geo_regions
+Kwanso,0,geo_regions
+MENA,0,geo_regions
+Kwu Tung,0,geo_regions
+Q1002037,0,geo_regions
+Q1002386,0,geo_regions
+Q1005335,0,geo_regions
+Q1014874,0,geo_regions
+Q1014875,0,geo_regions
+Q1020962,0,geo_regions
+Etelköz,0,geo_regions
+Central Canada,0,geo_regions
+Galactic anticenter,0,geo_regions
+Turkish Riviera,0,geo_regions
+Northeast China,0,geo_regions
+north India,0,geo_regions
+North Kosovo,0,geo_regions
+Latin Europe,0,geo_regions
+Southern Tablelands,0,geo_regions
+South Coast,0,geo_regions
+Central West,0,geo_regions
+Saurashtra,0,geo_regions
+Javakheti,0,geo_regions
+Brazilian Antarctica,0,geo_regions
+Wadi El Natrun,0,geo_regions
+Nordwestblock,0,geo_regions
+Campine,0,geo_regions
+Monaro,0,geo_regions
+Northwest Highlands,0,geo_regions
+Q1087669,0,geo_regions
+Q1090822,0,geo_regions
+Sahul Shelf,0,geo_regions
+Chameria,0,geo_regions
+Central Texas,0,geo_regions
+Griese Gegend,0,geo_regions
+Coele-Syria,0,geo_regions
+Central Italy,0,geo_regions
+Corn Belt,0,geo_regions
+"Cornwall County, Jamaica",0,geo_regions
+Ellsworth Land,0,geo_regions
+Southern England,0,geo_regions
+Green Spain,0,geo_regions
+Southeastern United States,0,geo_regions
+Konkan,0,geo_regions
+Tusheti,0,geo_regions
+Western Canada,0,geo_regions
+Cuyo,0,geo_regions
+Ruthenia,0,geo_regions
+Inland Empire,0,geo_regions
+West India,0,geo_regions
+Eastern India,0,geo_regions
+Dakpo,0,geo_regions
+Q1168655,0,geo_regions
+Polish Autonomous District in Belarus,0,geo_regions
+Q1184019,0,geo_regions
+Eastern California,0,geo_regions
+Eastern United States,0,geo_regions
+Greater Boston,0,geo_regions
+Western Thrace,0,geo_regions
+Queen Elizabeth Land,0,geo_regions
+Mthwakazi,0,geo_regions
+Meskheti,0,geo_regions
+Tōkaidō,0,geo_regions
+Q1232000,0,geo_regions
+Ciscaucasia,0,geo_regions
+Ennetsee,0,geo_regions
+Riesalb,0,geo_regions
+Southern France,0,geo_regions
+Florida Parishes,0,geo_regions
+Lomellina,0,geo_regions
+Franciacorta,0,geo_regions
+Oltrepò Pavese,0,geo_regions
+Wester Ross,0,geo_regions
+Matabeleland,0,geo_regions
+Dézaley,0,geo_regions
+South Wales,0,geo_regions
+Q1301705,0,geo_regions
+Q1303009,0,geo_regions
+Nordstad,0,geo_regions
+Zeta,0,geo_regions
+Turkestan,0,geo_regions
+Ural,0,geo_regions
+Elgå,0,geo_regions
+Enderby Land,0,geo_regions
+Subarctic,0,geo_regions
+Gedrosia,0,geo_regions
+Pilbara,0,geo_regions
+Upper and Lower Egypt,0,geo_regions
+Canadian Prairies,0,geo_regions
+Q1365619,0,geo_regions
+Finnish Lakeland,0,geo_regions
+Q1373207,0,geo_regions
+Q1385861,0,geo_regions
+Mac. Robertson Land,0,geo_regions
+Xanadu,0,geo_regions
+Western Palatinate,0,geo_regions
+Southwestern Statistical Region,0,geo_regions
+Quebec City–Windsor Corridor,0,geo_regions
+Kiev Voivodeship,0,geo_regions
+Katinger Watt,0,geo_regions
+North Frisia,0,geo_regions
+Middle Egypt,0,geo_regions
+German Coast,0,geo_regions
+Land of Gex,0,geo_regions
+Fort Rock Basin,0,geo_regions
+Futa Tooro,0,geo_regions
+Freiberge,0,geo_regions
+Q1454178,0,geo_regions
+Pelagonia Statistical Region,0,geo_regions
+Racha,0,geo_regions
+West Friesland,0,geo_regions
+Inflanty Voivodeship,0,geo_regions
+Nivernais,0,geo_regions
+Q1470626,0,geo_regions
+Old Babylonian Empire,0,geo_regions
+Sunshine Coast,0,geo_regions
+Southern Lebanon,0,geo_regions
+Gaster,0,geo_regions
+Gau Jom,0,geo_regions
+Western Bloc,0,geo_regions
+Georgian Triangle,0,geo_regions
+Eupen-Malmedy,0,geo_regions
+Alaska Interior,0,geo_regions
+Helambu,0,geo_regions
+Idel-Ural,0,geo_regions
+Malabar,0,geo_regions
+Golden Horseshoe,0,geo_regions
+Q1541688,0,geo_regions
+Great Lakes region,0,geo_regions
+Palmer Land,0,geo_regions
+North Palatinate,0,geo_regions
+Antarctic,0,geo_regions
+Gäuboden,0,geo_regions
+Chitrali,0,geo_regions
+Polog Statistical Region,0,geo_regions
+Hasenwinkel,0,geo_regions
+Herrschaft Grüningen,0,geo_regions
+Q1615471,0,geo_regions
+Hildesheim Börde,0,geo_regions
+Q1622039,0,geo_regions
+Q1622362,0,geo_regions
+Q1622999,0,geo_regions
+Q1623749,0,geo_regions
+Volga Region,0,geo_regions
+Southern Black Forest,0,geo_regions
+West Mecklenburg,0,geo_regions
+Setomaa,0,geo_regions
+Schamserberg,0,geo_regions
+Vermont Republic,0,geo_regions
+Ordos Desert,0,geo_regions
+Tsang,0,geo_regions
+Q1682542,0,geo_regions
+Jiaolai Plain,0,geo_regions
+Pashtunistan,0,geo_regions
+Kaokoland,0,geo_regions
+Naheland,0,geo_regions
+Norital,0,geo_regions
+Ostbayern,0,geo_regions
+Princess Elizabeth Land,0,geo_regions
+Namaqualand,0,geo_regions
+Left Bank of the Rhine,0,geo_regions
+Little Switzerland,0,geo_regions
+Puuc,0,geo_regions
+Klöntal,0,geo_regions
+Klützer Winkel,0,geo_regions
+Croatian Littoral,0,geo_regions
+Pothohar Plateau,0,geo_regions
+La Bonneville,0,geo_regions
+Alaska North Slope,0,geo_regions
+Okanagan,0,geo_regions
+Transvolga,0,geo_regions
+Q1822077,0,geo_regions
+Q1827673,0,geo_regions
+Q1828130,0,geo_regions
+Q1828394,0,geo_regions
+Western Maryland,0,geo_regions
+Crimean Socialist Soviet Republic,0,geo_regions
+Q1845144,0,geo_regions
+Q1850862,0,geo_regions
+Q1854479,0,geo_regions
+Q1861346,0,geo_regions
+Q1863036,0,geo_regions
+Q1882311,0,geo_regions
+Q1884550,0,geo_regions
+Q1891176,0,geo_regions
+South East Queensland,0,geo_regions
+Q1899494,0,geo_regions
+Q1921255,0,geo_regions
+Q1924507,0,geo_regions
+Q1929422,0,geo_regions
+Q1933970,0,geo_regions
+Lower Burma,0,geo_regions
+Mirdita,0,geo_regions
+Middle Hesse,0,geo_regions
+Q1940417,0,geo_regions
+Central Limburg,0,geo_regions
+Area of ​​Grol,0,geo_regions
+Q1953528,0,geo_regions
+Q1965990,0,geo_regions
+Q1967085,0,geo_regions
+Q1971484,0,geo_regions
+Q1976353,0,geo_regions
+Pshavi,0,geo_regions
+Q1981096,0,geo_regions
+Q1981154,0,geo_regions
+Q1990175,0,geo_regions
+Regio Rivierenland,0,geo_regions
+North Eifel,0,geo_regions
+North Hesse,0,geo_regions
+Q1998137,0,geo_regions
+North Yemen,0,geo_regions
+Q1998484,0,geo_regions
+North Eastern Europe,0,geo_regions
+Northern Black Forest,0,geo_regions
+Qurghonteppa Oblast,0,geo_regions
+Q2003451,0,geo_regions
+Fusa Province,0,geo_regions
+Q2011608,0,geo_regions
+Northern America,0,geo_regions
+Q2023035,0,geo_regions
+Ostfeste,0,geo_regions
+Q2036208,0,geo_regions
+Q2036714,0,geo_regions
+Q2036738,0,geo_regions
+Q2041514,0,geo_regions
+Q2042647,0,geo_regions
+Samachablo,0,geo_regions
+Q2048712,0,geo_regions
+Q2053549,0,geo_regions
+Q2059961,0,geo_regions
+Martanesh,0,geo_regions
+Northern Ontario,0,geo_regions
+Q2067053,0,geo_regions
+Q2067309,0,geo_regions
+Northeastern Statistical Region,0,geo_regions
+Southeastern Statistical Region,0,geo_regions
+Pfynwald,0,geo_regions
+Q2088066,0,geo_regions
+Southern Bukovina,0,geo_regions
+Q2098393,0,geo_regions
+Q2119355,0,geo_regions
+Koi Krylgan Kala,0,geo_regions
+Q2125748,0,geo_regions
+Q2133327,0,geo_regions
+Langstraat,0,geo_regions
+Q2139787,0,geo_regions
+Q2145648,0,geo_regions
+Q2153653,0,geo_regions
+Riverina,0,geo_regions
+Amqu,0,geo_regions
+Kukheti,0,geo_regions
+Q2165132,0,geo_regions
+Q2168957,0,geo_regions
+Q2171988,0,geo_regions
+Rum Jungle,0,geo_regions
+Q2180569,0,geo_regions
+Q2181095,0,geo_regions
+Q2181259,0,geo_regions
+Q2181581,0,geo_regions
+Q2187505,0,geo_regions
+Hennepin,0,geo_regions
+Q2190358,0,geo_regions
+Q2191428,0,geo_regions
+Q2210101,0,geo_regions
+Sagartia,0,geo_regions
+Q2214560,0,geo_regions
+Arab states of the Persian Gulf,0,geo_regions
+Duchy of Saxony,0,geo_regions
+Meetjesland,0,geo_regions
+Q2235609,0,geo_regions
+Greater Mekong Subregion,0,geo_regions
+South Italy,0,geo_regions
+Q2252633,0,geo_regions
+Land of Herve,0,geo_regions
+Q2264583,0,geo_regions
+Seeland,0,geo_regions
+Q2266698,0,geo_regions
+Fiordland,0,geo_regions
+Q2269349,0,geo_regions
+Soconusco,0,geo_regions
+Donbas,0,geo_regions
+Kazakhstania,0,geo_regions
+Q2285661,0,geo_regions
+Q2292373,0,geo_regions
+Q2298995,0,geo_regions
+Podolian Voivodeship,0,geo_regions
+Q2303350,0,geo_regions
+Lwów Voivodeship,0,geo_regions
+South West Queensland,0,geo_regions
+Kwomintang-China,0,geo_regions
+Q2311442,0,geo_regions
+Q2331438,0,geo_regions
+Oman proper,0,geo_regions
+Q2351273,0,geo_regions
+Q2351796,0,geo_regions
+Central London,0,geo_regions
+Q2359205,0,geo_regions
+"Beauce, Quebec",0,geo_regions
+Dauria,0,geo_regions
+Sundaland,0,geo_regions
+Q2369166,0,geo_regions
+Q2369784,0,geo_regions
+Mugan State,0,geo_regions
+Q2380500,0,geo_regions
+South Eifel,0,geo_regions
+South Lower Saxony,0,geo_regions
+Q2381438,0,geo_regions
+Q2381752,0,geo_regions
+South Westphalia,0,geo_regions
+Q2387250,0,geo_regions
+Northern Bukovina,0,geo_regions
+Q2396115,0,geo_regions
+Q2398578,0,geo_regions
+Q2411861,0,geo_regions
+Central Coast,0,geo_regions
+Q2416430,0,geo_regions
+Q2433289,0,geo_regions
+Q2436598,0,geo_regions
+Q2442280,0,geo_regions
+Tooms Lake,0,geo_regions
+Q2450574,0,geo_regions
+Khevi,0,geo_regions
+Q2454701,0,geo_regions
+Q2455475,0,geo_regions
+Venetia,0,geo_regions
+Q2457682,0,geo_regions
+Q2461529,0,geo_regions
+Historical Bashkortostan,0,geo_regions
+Francophone Africa,0,geo_regions
+Ertso-Tianeti,0,geo_regions
+Q2475469,0,geo_regions
+Q2497488,0,geo_regions
+Unterlandquart,0,geo_regions
+Q2498804,0,geo_regions
+Valle de la Orotava,0,geo_regions
+Q2532161,0,geo_regions
+Q2532321,0,geo_regions
+Q2533808,0,geo_regions
+Q2535199,0,geo_regions
+Q2536231,0,geo_regions
+Wauwilermoos,0,geo_regions
+Waxhaws,0,geo_regions
+Lechkhumi,0,geo_regions
+Illinois Country,0,geo_regions
+Conejo Valley,0,geo_regions
+Trialeti,0,geo_regions
+Q2560473,0,geo_regions
+Westfeste,0,geo_regions
+West Hesse Depression,0,geo_regions
+Q2569039,0,geo_regions
+Q2569066,0,geo_regions
+Red Sea Riviera,0,geo_regions
+East Texas,0,geo_regions
+Bodoland,0,geo_regions
+Nudo de los Pastos,0,geo_regions
+Camp,0,geo_regions
+Mtiuleti,0,geo_regions
+Q2633450,0,geo_regions
+Shasta Cascade,0,geo_regions
+Q2645837,0,geo_regions
+Q2646903,0,geo_regions
+Q2660389,0,geo_regions
+Q2660612,0,geo_regions
+Darvaz,0,geo_regions
+North Coast,0,geo_regions
+Q2671329,0,geo_regions
+Q2681659,0,geo_regions
+Q2700211,0,geo_regions
+Q2701616,0,geo_regions
+Q2724378,0,geo_regions
+Northwest Italy,0,geo_regions
+Agder,0,geo_regions
+Limestone Coast,0,geo_regions
+Q2779293,0,geo_regions
+Q2781804,0,geo_regions
+FAO Major Fishing Areas,0,geo_regions
+Q2793935,0,geo_regions
+Rwenzururu region,0,geo_regions
+Tampa Bay Area,0,geo_regions
+Westelijke Mijnstreek,0,geo_regions
+Q2850337,0,geo_regions
+Q2863588,0,geo_regions
+Azawagh,0,geo_regions
+Q2878654,0,geo_regions
+Mithila (region),0,geo_regions
+Upper Galilee,0,geo_regions
+Lower Galilee,0,geo_regions
+Gachiani,0,geo_regions
+Argveti,0,geo_regions
+Maritime Southeast Asia,0,geo_regions
+Central Florida,0,geo_regions
+Q2920499,0,geo_regions
+Q2922520,0,geo_regions
+Q2926400,0,geo_regions
+Q2929122,0,geo_regions
+Q2935604,0,geo_regions
+Cap Estérias,0,geo_regions
+Cape Paterson,0,geo_regions
+Central Coast,0,geo_regions
+Central Jersey,0,geo_regions
+Q2947279,0,geo_regions
+Q2982340,0,geo_regions
+Land of Dalhem,0,geo_regions
+La Carballeda,0,geo_regions
+Aliste,0,geo_regions
+Q2998362,0,geo_regions
+Q2998376,0,geo_regions
+Northern Rivers,0,geo_regions
+Thick disk,0,geo_regions
+Galveston Bay Area,0,geo_regions
+Dommartin,0,geo_regions
+Verwolde,0,geo_regions
+Erie Triangle,0,geo_regions
+Eastern Washington,0,geo_regions
+Q3053779,0,geo_regions
+Q3061553,0,geo_regions
+Gold Country,0,geo_regions
+Q3106206,0,geo_regions
+Scandia,0,geo_regions
+Q3110351,0,geo_regions
+Q3110560,0,geo_regions
+Krbava,0,geo_regions
+Q3114590,0,geo_regions
+Guinée forestière,0,geo_regions
+High Desert,0,geo_regions
+Central Highlands,0,geo_regions
+Puget Sound region,0,geo_regions
+Hokurikudō,0,geo_regions
+Q3142857,0,geo_regions
+Q3162711,0,geo_regions
+La Béroche,0,geo_regions
+Gardabani,0,geo_regions
+New Territories East,0,geo_regions
+Arctic Alaska,0,geo_regions
+Southern Illinois,0,geo_regions
+Q3259080,0,geo_regions
+North Bay,0,geo_regions
+South Bay,0,geo_regions
+Q3275448,0,geo_regions
+Q3277175,0,geo_regions
+Mandement,0,geo_regions
+Many Glacier,0,geo_regions
+Marquessate of Franchimont,0,geo_regions
+Eastern Mediterranean,0,geo_regions
+Neris Regional Park,0,geo_regions
+Mesogaea,0,geo_regions
+Olallie Scenic Area,0,geo_regions
+Oued Righ,0,geo_regions
+Outre-Forêt,0,geo_regions
+Micronesia,0,geo_regions
+Kananaskis Country,0,geo_regions
+Ribeira Sacra,0,geo_regions
+Debarca,0,geo_regions
+Boundary Waters,0,geo_regions
+Q3433553,0,geo_regions
+Q3433589,0,geo_regions
+Ross,0,geo_regions
+Q3466602,0,geo_regions
+Gudamaqari,0,geo_regions
+South West Slopes,0,geo_regions
+Big Bend,0,geo_regions
+Sulcis,0,geo_regions
+Kaunas Reservoir Regional Park,0,geo_regions
+Te I'i,0,geo_regions
+Q3517360,0,geo_regions
+The Thumb,0,geo_regions
+Transnistria,0,geo_regions
+Q3541010,0,geo_regions
+Q3542238,0,geo_regions
+Q3555780,0,geo_regions
+Vincentia,0,geo_regions
+Marathasa Valley,0,geo_regions
+Willamette Valley,0,geo_regions
+Arbëria,0,geo_regions
+Duchy of Austria,0,geo_regions
+Sistan Basin,0,geo_regions
+Q3647796,0,geo_regions
+Katherine Region,0,geo_regions
+Q3676537,0,geo_regions
+Chianti Classico region,0,geo_regions
+Deep East Texas,0,geo_regions
+Persia,0,geo_regions
+Yorùbáland,0,geo_regions
+West Cork,0,geo_regions
+Karin,0,geo_regions
+Q3820265,0,geo_regions
+Floridas,0,geo_regions
+Maremma Grossetana,0,geo_regions
+New Jersey Meadowlands,0,geo_regions
+Armenian Mesopotamia,0,geo_regions
+Monte Devio,0,geo_regions
+South Carolina Lowcountry,0,geo_regions
+Western Polesie,0,geo_regions
+Kingdom of Sikkim,0,geo_regions
+Q3998242,0,geo_regions
+Brazos Valley,0,geo_regions
+Balaton wine region,0,geo_regions
+Q4088115,0,geo_regions
+Northern coast of Egypt,0,geo_regions
+Tri-Valley,0,geo_regions
+Zamagurie,0,geo_regions
+Q4190337,0,geo_regions
+Tropolje,0,geo_regions
+Q4298090,0,geo_regions
+Perm anomalous zone,0,geo_regions
+Murmansk Krai,0,geo_regions
+Q4325659,0,geo_regions
+Northern Italy,0,geo_regions
+Q4370859,0,geo_regions
+Colony of Singapore,0,geo_regions
+Congo,0,geo_regions
+Verkiai Regional Park,0,geo_regions
+Northern Maramuresh,0,geo_regions
+Q4420354,0,geo_regions
+Q4423651,0,geo_regions
+Q4438510,0,geo_regions
+Steppe Crimea,0,geo_regions
+Q4456217,0,geo_regions
+Q4460006,0,geo_regions
+Frisia,0,geo_regions
+Q4506250,0,geo_regions
+Erebuni Reserve,0,geo_regions
+Abdullah Gan,0,geo_regions
+Q4669502,0,geo_regions
+Akron-Canton,0,geo_regions
+Albury-Wodonga,0,geo_regions
+Alto Marañón,0,geo_regions
+Arappalayam,0,geo_regions
+Armanitola,0,geo_regions
+Asveja Regional Park,0,geo_regions
+Aukštadvaris Regional Park,0,geo_regions
+Baiguolin,0,geo_regions
+Q4843960,0,geo_regions
+Q4845533,0,geo_regions
+Q4848723,0,geo_regions
+Barind Tract,0,geo_regions
+Barrio Bellavista,0,geo_regions
+Smiths Beach,0,geo_regions
+Boharo,0,geo_regions
+Bhatiore,0,geo_regions
+Bickley,0,geo_regions
+Quad Cities,0,geo_regions
+Black Mountain,0,geo_regions
+Bobur Square,0,geo_regions
+Paisa Region,0,geo_regions
+Buffalo Niagara Region,0,geo_regions
+Serengeti,0,geo_regions
+Burroway,0,geo_regions
+Butte des Morts,0,geo_regions
+C-9 Basin,0,geo_regions
+Cape Fear,0,geo_regions
+Capital Country,0,geo_regions
+CarolinaCon,0,geo_regions
+Gdańsk Pomerania,0,geo_regions
+Central Baldwin,0,geo_regions
+Central Illinois,0,geo_regions
+Central Karang,0,geo_regions
+Central New York Region,0,geo_regions
+Central Oregon,0,geo_regions
+Central Queensland,0,geo_regions
+Dumre,0,geo_regions
+Cinnibar Flats,0,geo_regions
+Clear Lake,0,geo_regions
+Cline Town,0,geo_regions
+Coal-mining region,0,geo_regions
+Coast Range,0,geo_regions
+College Lands,0,geo_regions
+Congress Lands West of Miami River,0,geo_regions
+Copper Coast,0,geo_regions
+Coral Coast,0,geo_regions
+County of Luxembourg,0,geo_regions
+Crowley's Ridge,0,geo_regions
+Dar'a,0,geo_regions
+Darjeeling Himalayan hill region,0,geo_regions
+Dark Divide,0,geo_regions
+De Bakke,0,geo_regions
+Dieveniškės Regional Park,0,geo_regions
+Q5289558,0,geo_regions
+Downstate New York,0,geo_regions
+Dublin Region,0,geo_regions
+Q5316399,0,geo_regions
+Dutch Caribbean,0,geo_regions
+Dutch Fork,0,geo_regions
+East Bay,0,geo_regions
+East Belarus,0,geo_regions
+East Central Indiana,0,geo_regions
+Eastern North Carolina,0,geo_regions
+Eastern Oregon,0,geo_regions
+Eastern Shore,0,geo_regions
+Q5340439,0,geo_regions
+Forgney,0,geo_regions
+Q5473630,0,geo_regions
+GW 123.4-1.5,0,geo_regions
+Gateway Region,0,geo_regions
+Gaudineer Scenic Area,0,geo_regions
+Gentuni,0,geo_regions
+George V Land,0,geo_regions
+"Glacier Country, Montana",0,geo_regions
+Glan Conway Rural District,0,geo_regions
+Glenelg Hopkins Catchment Management Authority,0,geo_regions
+Golagrama,0,geo_regions
+Golden Triangle,0,geo_regions
+Grasmere,0,geo_regions
+Greater Danbury,0,geo_regions
+Greater Hartford,0,geo_regions
+Greater Perth,0,geo_regions
+Guerrero Gold Belt,0,geo_regions
+Gulshan-e-Ravi,0,geo_regions
+Q5621257,0,geo_regions
+Hadley–Apennine,0,geo_regions
+Hait,0,geo_regions
+Q5691620,0,geo_regions
+High Rockies,0,geo_regions
+Hillwood,0,geo_regions
+Labanoras Regional Park,0,geo_regions
+Historic South,0,geo_regions
+Q5793730,0,geo_regions
+Sierra Morena,0,geo_regions
+Q5837453,0,geo_regions
+Horse Creek Valley,0,geo_regions
+Hudson River Historic District,0,geo_regions
+Ahi Çelebi,0,geo_regions
+Indian Himalayan Region,0,geo_regions
+Interlakes,0,geo_regions
+Ix,0,geo_regions
+Southern Chile,0,geo_regions
+Jackson Purchase,0,geo_regions
+Tadla,0,geo_regions
+Keihanshin industrial region,0,geo_regions
+Klamath Basin,0,geo_regions
+Liptako,0,geo_regions
+Southern Netherlands,0,geo_regions
+Q6617522,0,geo_regions
+Local Sheet,0,geo_regions
+Los Altos,0,geo_regions
+Lost Coast,0,geo_regions
+Malpai Borderlands,0,geo_regions
+Maryborough-Dunolly Box-Ironbark region,0,geo_regions
+Mattapony,0,geo_regions
+Nala,0,geo_regions
+Mid-Continent Region,0,geo_regions
+Mid-Missouri,0,geo_regions
+Middle America,0,geo_regions
+Murraylands,0,geo_regions
+New Berrima,0,geo_regions
+New York–New Jersey Highlands,0,geo_regions
+North Central Idaho,0,geo_regions
+North Country,0,geo_regions
+North East Side,0,geo_regions
+North Florida,0,geo_regions
+North Georgia,0,geo_regions
+North Louisiana,0,geo_regions
+North Shore,0,geo_regions
+North Shore,0,geo_regions
+North West Coast,0,geo_regions
+North West Side,0,geo_regions
+"North macroregion, Peru",0,geo_regions
+Northeast Africa,0,geo_regions
+Northeastern Pennsylvania,0,geo_regions
+Northern Indiana,0,geo_regions
+Northwestern Mexico,0,geo_regions
+Ocooch Mountains,0,geo_regions
+Oregon Outback,0,geo_regions
+Pak Shek Kok,0,geo_regions
+Pennsyltucky,0,geo_regions
+Perth Cultural Centre,0,geo_regions
+Piedmont region of Virginia,0,geo_regions
+Refugee Tract,0,geo_regions
+Republic of Winston,0,geo_regions
+Ridge-and-Valley Appalachians,0,geo_regions
+Sheikh Mukhtar-Vali Complex,0,geo_regions
+Sky Valley Washington,0,geo_regions
+Skylands Region,0,geo_regions
+South Arkansas,0,geo_regions
+"South Bay, San Diego",0,geo_regions
+South Burnett,0,geo_regions
+South Coast,0,geo_regions
+South Coast Western Australia,0,geo_regions
+South Florida,0,geo_regions
+Southeast Kansas,0,geo_regions
+Southern Albanian Highlands,0,geo_regions
+Southern Maryland,0,geo_regions
+Southern Oregon,0,geo_regions
+Southern Shore Region,0,geo_regions
+Sussex County Snow Belt,0,geo_regions
+Swartland,0,geo_regions
+TAG Corner,0,geo_regions
+Texas blackland prairies,0,geo_regions
+The Sourlands,0,geo_regions
+Thin disk,0,geo_regions
+Thousand Islands – Frontenac Arch,0,geo_regions
+Tomorrow Valley,0,geo_regions
+Tondai Nadu,0,geo_regions
+"Tri-Cities, Virginia",0,geo_regions
+Tropical North Queensland,0,geo_regions
+Turan,0,geo_regions
+Turkish Lakes Region,0,geo_regions
+Two Mile Square Reservation,0,geo_regions
+Unassigned Lands,0,geo_regions
+Upstate South Carolina,0,geo_regions
+Warrawoona,0,geo_regions
+Waterfall Country,0,geo_regions
+West Coast,0,geo_regions
+West Gippsland,0,geo_regions
+Western Cascades,0,geo_regions
+Western District,0,geo_regions
+Western Pennsylvania,0,geo_regions
+Western Sydney,0,geo_regions
+Willamette Floodplain,0,geo_regions
+Eastern Circuit,0,geo_regions
+Southern Circuit,0,geo_regions
+Central Circuit,0,geo_regions
+Northern Circuit,0,geo_regions
+Woodstock,0,geo_regions
+Q8255037,0,geo_regions
+Wakhan Corridor,0,geo_regions
+North Jersey,0,geo_regions
+Pacific Rim,0,geo_regions
+Q9372687,0,geo_regions
+Q9375432,0,geo_regions
+Eastern Inner Mongolia,0,geo_regions
+Q10261188,0,geo_regions
+Lafões,0,geo_regions
+Memphite necropolis,0,geo_regions
+Kuban,0,geo_regions
+Norwegian Antarctica,0,geo_regions
+Västerhavet,0,geo_regions
+Serbia (1941-1944),0,geo_regions
+Maramureș,0,geo_regions
+Q10990541,0,geo_regions
+Q11009740,0,geo_regions
+Greater India,0,geo_regions
+Q11030537,0,geo_regions
+Jianghuai,0,geo_regions
+Blata,0,geo_regions
+Q11198701,0,geo_regions
+Q11248848,0,geo_regions
+Reihoku region,0,geo_regions
+Swabia,0,geo_regions
+Q11821198,0,geo_regions
+Q11821203,0,geo_regions
+Q11831937,0,geo_regions
+Zangezur,0,geo_regions
+Gray Zone,0,geo_regions
+Q12018177,0,geo_regions
+Q12254223,0,geo_regions
+North Pacific,0,geo_regions
+South Pacific,0,geo_regions
+index mineral,0,geo_regions
+Eastern salient of Java,0,geo_regions
+Middle Assyrian Empire,0,geo_regions
+Q12648866,0,geo_regions
+Q12654769,0,geo_regions
+Q12655886,0,geo_regions
+Q12656585,0,geo_regions
+Q12657385,0,geo_regions
+Q12664713,0,geo_regions
+Q12665342,0,geo_regions
+Q12667842,0,geo_regions
+Q12668931,0,geo_regions
+Q12669475,0,geo_regions
+Q12670510,0,geo_regions
+Q12671399,0,geo_regions
+Q12671536,0,geo_regions
+Q12672404,0,geo_regions
+Q12672919,0,geo_regions
+Q12673428,0,geo_regions
+Q12674650,0,geo_regions
+Q12675724,0,geo_regions
+Q12675980,0,geo_regions
+Q12678148,0,geo_regions
+Q12679023,0,geo_regions
+Q12679422,0,geo_regions
+Q12680308,0,geo_regions
+Q12680371,0,geo_regions
+Q12680417,0,geo_regions
+Q12739306,0,geo_regions
+Sarganserland,0,geo_regions
+Q13193149,0,geo_regions
+Q13193170,0,geo_regions
+Q13193664,0,geo_regions
+Varniai regional park,0,geo_regions
+Syria (region),0,geo_regions
+Q14201670,0,geo_regions
+Q14202648,0,geo_regions
+Q14202729,0,geo_regions
+Q14202743,0,geo_regions
+Q14202787,0,geo_regions
+Q14202791,0,geo_regions
+Q14203399,0,geo_regions
+Badlands,0,geo_regions
+Badlands and Black Hills,0,geo_regions
+Baku Region,0,geo_regions
+Q14205506,0,geo_regions
+Q14205509,0,geo_regions
+Q14206152,0,geo_regions
+Q14206153,0,geo_regions
+Q14206164,0,geo_regions
+Q14206761,0,geo_regions
+Kempen,0,geo_regions
+Q14207143,0,geo_regions
+Q14207436,0,geo_regions
+Central Mexico,0,geo_regions
+Q14208012,0,geo_regions
+Q14208086,0,geo_regions
+Northeast Tanzania,0,geo_regions
+Q14208144,0,geo_regions
+Q14208750,0,geo_regions
+Q14208949,0,geo_regions
+Q14209985,0,geo_regions
+Q14210031,0,geo_regions
+Caves and Lakes,0,geo_regions
+Central Iowa,0,geo_regions
+Central Kansas,0,geo_regions
+Central Mozambique,0,geo_regions
+Top End,0,geo_regions
+East Coast (Tasmania),0,geo_regions
+Eastern Guangdong,0,geo_regions
+Eastern Iowa,0,geo_regions
+Eastern Kansas,0,geo_regions
+al-Mala,0,geo_regions
+el-Maraqi,0,geo_regions
+Mittlere Schwäbische Alb,0,geo_regions
+Flaxton,0,geo_regions
+Niederlausitzer Neiße,0,geo_regions
+Oder-Spree-Seengebiet,0,geo_regions
+Skye/Northwest,0,geo_regions
+Skye/Zentralbereich,0,geo_regions
+Q14220759,0,geo_regions
+Thüringer Vogtland,0,geo_regions
+Werra-Meißner-Land,0,geo_regions
+Westlicher Frankenwald,0,geo_regions
+western Namibia,0,geo_regions
+Lower Mesopotamia,0,geo_regions
+Eastern Frankenwald,0,geo_regions
+North Central Iowa,0,geo_regions
+Northeast Iowa,0,geo_regions
+Northern Highlands,0,geo_regions
+South Shore,0,geo_regions
+Southeast Iowa,0,geo_regions
+Southeast Nigeria,0,geo_regions
+Southeast Ohio,0,geo_regions
+Southern Somalia,0,geo_regions
+Southwest Iowa,0,geo_regions
+The Murray,0,geo_regions
+Red Sea Coast,0,geo_regions
+West Coast (Crimea),0,geo_regions
+Dvinska land and Vazhsky krai,0,geo_regions
+South European Russia,0,geo_regions
+Northeastern part of al-Bahariyya,0,geo_regions
+Coburger Land,0,geo_regions
+Kraichgau-Stromberg,0,geo_regions
+"West Central, Saskatchewan",0,geo_regions
+central Armenia,0,geo_regions
+Charlevoix,0,geo_regions
+Laisvučiai,0,geo_regions
+Margės,0,geo_regions
+Mingėliai,0,geo_regions
+Naisia,0,geo_regions
+Pilis I,0,geo_regions
+Zigmantinė,0,geo_regions
+South Central Iowa,0,geo_regions
+Western Illinois,0,geo_regions
+Western Iowa,0,geo_regions
+Western Kansas,0,geo_regions
+Calenberger Lößbörde,0,geo_regions
+Hearts Content Scenic Area,0,geo_regions
+Pitsilia,0,geo_regions
+Baden,0,geo_regions
+Southeast Germany,0,geo_regions
+Newrybar,0,geo_regions
+Dutch Slave Coast,0,geo_regions
+subtropics,0,geo_regions
+peninsular Spain,0,geo_regions
+Lossi plats,0,geo_regions
+Linkavičiai,0,geo_regions
+Mučiūnai,0,geo_regions
+Naujarodžiai,0,geo_regions
+Pavėžupis,0,geo_regions
+Rimkiai,0,geo_regions
+Stibiriškė,0,geo_regions
+Vadaktėliai,0,geo_regions
+Retoromania,0,geo_regions
+Crossdale,0,geo_regions
+Mid-South (region),0,geo_regions
+Mount Forbes,0,geo_regions
+Euro-Mediterranean region,0,geo_regions
+Bhelatand sijua,0,geo_regions
+Phlegra Dorsa,0,geo_regions
+Zadrima,0,geo_regions
+Bordeaux wine regions,0,geo_regions
+Hodh,0,geo_regions
+Madhupur tract,0,geo_regions
+Eastern Mongolia,0,geo_regions
+Chandigarh capital region,0,geo_regions
+Valle Trita,0,geo_regions
+Okanagan Country,0,geo_regions
+Cherkashchina,0,geo_regions
+Shiretoko,0,geo_regions
+Nordburgenland,0,geo_regions
+Q17633277,0,geo_regions
+Central Andes,0,geo_regions
+Q18088622,0,geo_regions
+Franja Transversal del Norte,0,geo_regions
+FAO Major Fishing Area 18,0,geo_regions
+FAO Major Fishing Area 34,0,geo_regions
+FAO Major Fishing Area 37,0,geo_regions
+FAO Major Fishing Area 41,0,geo_regions
+FAO Major Fishing Area 47,0,geo_regions
+FAO Major Fishing Area 48,0,geo_regions
+FAO Major Fishing Area 51,0,geo_regions
+Allaybaday,0,geo_regions
+Braunschweig region,0,geo_regions
+Southern Clare,0,geo_regions
+Nurn,0,geo_regions
+Northern Kyoto Prefecture,0,geo_regions
+Karapanđa,0,geo_regions
+Kendjija,0,geo_regions
+Cthulhu Regio,0,geo_regions
+Kvarner,0,geo_regions
+Kimmeria,0,geo_regions
+Land van Gulik,0,geo_regions
+El Pato,0,geo_regions
+Salem region,0,geo_regions
+Lower Harz,0,geo_regions
+Antarctic Treaty area,0,geo_regions
+Q21711119,0,geo_regions
+Robertstown,0,geo_regions
+Monteagle,0,geo_regions
+White Beach,0,geo_regions
+Andamooka Opal Fields,0,geo_regions
+South Bingera,0,geo_regions
+Uytland,0,geo_regions
+Gold Coast,0,geo_regions
+Q22665461,0,geo_regions
+Q22665464,0,geo_regions
+Q22665714,0,geo_regions
+Olympus,0,geo_regions
+Valley of Munster,0,geo_regions
+Goms,0,geo_regions
+Maloja Region,0,geo_regions
+Ghor,0,geo_regions
+Western Galilee,0,geo_regions
+Bible Belt (Norway),0,geo_regions
+Burrum Heads,0,geo_regions
+Q24990448,0,geo_regions
+Q24990878,0,geo_regions
+Q24991106,0,geo_regions
+Q25133830,0,geo_regions
+Indies,0,geo_regions
+Wegenerinlandeis,0,geo_regions
+Lac-Saint-Jean,0,geo_regions
+Saguenay,0,geo_regions
+Northwest Highlands,0,geo_regions
+Q26844276,0,geo_regions
+Guandong,0,geo_regions
+Sierras y Llanuras del Norte,0,geo_regions
+Q27614207,0,geo_regions
+Mississippi Bootheel,0,geo_regions
+Western Tuscany,0,geo_regions
+Nyanza central,0,geo_regions
+Nyanza méridional,0,geo_regions
+Western North Rift,0,geo_regions
+Northern Netherlands,0,geo_regions
+Transvaal region,0,geo_regions
+Q28057179,0,geo_regions
+Grand Chiriquí,0,geo_regions
+North East Victoria,0,geo_regions
+South Limburg coal basin,0,geo_regions
+Coochin,0,geo_regions
+Q28498752,0,geo_regions
+Lejaskurzeme,0,geo_regions
+Celtiberian Range,0,geo_regions
+Kozácko,0,geo_regions
+Alpe-Adria,0,geo_regions
+North Region,0,geo_regions
+East Region,0,geo_regions
+Big Desert,0,geo_regions
+Metropolitan Region,0,geo_regions
+South Central Region,0,geo_regions
+Pájaros Pintados Region,0,geo_regions
+Section of State,0,geo_regions
+Q30129668,0,geo_regions
+Q30226395,0,geo_regions
+Echuca - Moama,0,geo_regions
+Bowral - Mittagong,0,geo_regions
+Newcastle - Maitland,0,geo_regions
+Canberra - Queanbeyan,0,geo_regions
+Gladstone - Tannum Sands,0,geo_regions
+Gold Coast - Tweed Heads,0,geo_regions
+Nowra - Bomaderry,0,geo_regions
+Traralgon - Morwell,0,geo_regions
+Moe - Newborough,0,geo_regions
+Gisborne - Macedon,0,geo_regions
+Nelson Bay - Corlette,0,geo_regions
+Kurri Kurri - Weston,0,geo_regions
+Ocean Grove - Point Lonsdale,0,geo_regions
+Victor Harbor - Goolwa,0,geo_regions
+St Georges Basin - Sanctuary Point,0,geo_regions
+Drysdale - Clifton Springs,0,geo_regions
+Burnie - Wynyard,0,geo_regions
+Mildura - Wentworth,0,geo_regions
+Kalgoorlie - Boulder,0,geo_regions
+Forster - Tuncurry,0,geo_regions
+Morisset - Cooranbong,0,geo_regions
+Warragul - Drouin,0,geo_regions
+Ampilatwatja,0,geo_regions
+Q30339927,0,geo_regions
+Moonee Beach West,0,geo_regions
+Brightview,0,geo_regions
+Lake Tabourie,0,geo_regions
+Old Erowal Bay,0,geo_regions
+Poona,0,geo_regions
+Mulambin,0,geo_regions
+Ventnor,0,geo_regions
+Nahrunda,0,geo_regions
+Picton - West,0,geo_regions
+Yuelamu,0,geo_regions
+Nunderi,0,geo_regions
+East Jindabyne,0,geo_regions
+Firgrove,0,geo_regions
+Tarraganda,0,geo_regions
+Wooroowoolgan,0,geo_regions
+Waterview Heights,0,geo_regions
+Cargo,0,geo_regions
+Coomba Park,0,geo_regions
+Clifton Grove,0,geo_regions
+Milingimbi,0,geo_regions
+Jilkminggan,0,geo_regions
+Maloneys Beach,0,geo_regions
+Clarenza,0,geo_regions
+Cambewarra Village,0,geo_regions
+Junction Hill,0,geo_regions
+Beechwood,0,geo_regions
+Wutunugurra,0,geo_regions
+Kalaru,0,geo_regions
+Newlands Arm,0,geo_regions
+Wurruk,0,geo_regions
+Dales Creek,0,geo_regions
+Kiewa,0,geo_regions
+Nyirripi,0,geo_regions
+Miniyeri,0,geo_regions
+Robinson River (Mungoorbada),0,geo_regions
+Marengo,0,geo_regions
+Allingham,0,geo_regions
+Rangewood,0,geo_regions
+Lower Chittering Valley,0,geo_regions
+Belvedere,0,geo_regions
+Forest Acres,0,geo_regions
+Glenore Grove,0,geo_regions
+Gooburrum,0,geo_regions
+Kureelpa,0,geo_regions
+Laidley Heights,0,geo_regions
+Kurrimine Beach,0,geo_regions
+Oakhurst,0,geo_regions
+Pacific Haven,0,geo_regions
+Pie Creek,0,geo_regions
+Sunshine Acres,0,geo_regions
+South Mission Beach,0,geo_regions
+Sandy Beach - Emerald Beach,0,geo_regions
+Dodges Ferry - Lewisham,0,geo_regions
+Point Lonsdale - Queenscliff,0,geo_regions
+Shepparton - Mooroopna,0,geo_regions
+Putta Bucca - Bombira,0,geo_regions
+Alva Beach,0,geo_regions
+Arcadia Bay,0,geo_regions
+Carmoo,0,geo_regions
+Cungulla,0,geo_regions
+Erakala,0,geo_regions
+Maaroom,0,geo_regions
+Newell,0,geo_regions
+Moama - West,0,geo_regions
+Merinda,0,geo_regions
+Burrum Heads - South,0,geo_regions
+Airlie Beach - Cannonvale,0,geo_regions
+Tolga - West,0,geo_regions
+Glenrowan - North,0,geo_regions
+Tannum Sands - Boyne Island,0,geo_regions
+Placid Hills,0,geo_regions
+Jimboomba - West,0,geo_regions
+Kensington Grove - Regency Downs,0,geo_regions
+Kambalda East,0,geo_regions
+Ali Curung,0,geo_regions
+Ocean Grove - Barwon Heads,0,geo_regions
+Bushfield - Woodford,0,geo_regions
+Townsend,0,geo_regions
+Silverdale - Warragamba,0,geo_regions
+Culburra Beach - Orient Point,0,geo_regions
+Bargara - Innes Park,0,geo_regions
+Kalamia Estate,0,geo_regions
+Traralgon South,0,geo_regions
+Doonan - Tinbeerwah,0,geo_regions
+Stieglitz,0,geo_regions
+Glendale,0,geo_regions
+Nowra Hill,0,geo_regions
+Tucabia,0,geo_regions
+Mount Beauty - Tawonga South,0,geo_regions
+Beerburrum - North,0,geo_regions
+Cunjurong Point - Manyana,0,geo_regions
+Mungindi (NSW Part),0,geo_regions
+Louth Park,0,geo_regions
+King Creek,0,geo_regions
+Umagico,0,geo_regions
+Sandstone Point - Ningi,0,geo_regions
+Yarra Junction - Wesburn,0,geo_regions
+Brooms Head,0,geo_regions
+Tapitallee,0,geo_regions
+Daylesford - Hepburn Springs,0,geo_regions
+Gnarabup - Prevelly,0,geo_regions
+Balnarring - Balnarring Beach,0,geo_regions
+Conjola Park,0,geo_regions
+Severnlea,0,geo_regions
+Tellebang,0,geo_regions
+Cordelia,0,geo_regions
+Wattle Range,0,geo_regions
+Faulkland,0,geo_regions
+Boodarie,0,geo_regions
+Eurobodalla,0,geo_regions
+Bulart,0,geo_regions
+Kuender,0,geo_regions
+East Coraki,0,geo_regions
+North Tumbulgum,0,geo_regions
+Florentine,0,geo_regions
+Glenisla,0,geo_regions
+Ocean Grange,0,geo_regions
+Ganbenang,0,geo_regions
+Bangheet,0,geo_regions
+Belyando,0,geo_regions
+Murgheboluc,0,geo_regions
+Speewah,0,geo_regions
+Lakes Creek,0,geo_regions
+Dargal Road,0,geo_regions
+Cunjurong Point,0,geo_regions
+Soldiers Hill,0,geo_regions
+Upper Orara,0,geo_regions
+Laidley South,0,geo_regions
+Wilton,0,geo_regions
+Wilora,0,geo_regions
+Wickham,0,geo_regions
+Anindilyakwa,0,geo_regions
+Ampilatwatja,0,geo_regions
+Venn,0,geo_regions
+Ramsay,0,geo_regions
+Lockyer Waters,0,geo_regions
+East Mackay,0,geo_regions
+Lismore Heights,0,geo_regions
+Palmyra,0,geo_regions
+Woodwark,0,geo_regions
+Cloyna,0,geo_regions
+Lake Clarendon,0,geo_regions
+Pigeon Hole,0,geo_regions
+Bilyana,0,geo_regions
+Patrick Estate,0,geo_regions
+Farnborough,0,geo_regions
+Grosmont,0,geo_regions
+Rosenthal Heights,0,geo_regions
+Barlows Hill,0,geo_regions
+Towen Mountain,0,geo_regions
+Lumholtz,0,geo_regions
+East Deep Creek,0,geo_regions
+Mission River,0,geo_regions
+Thornton,0,geo_regions
+Tablelands,0,geo_regions
+Adelaide Park,0,geo_regions
+Airville,0,geo_regions
+Coorumba,0,geo_regions
+Meikleville Hill,0,geo_regions
+Cremorne,0,geo_regions
+Helidon Spa,0,geo_regions
+Kureelpa,0,geo_regions
+Mount Sheridan,0,geo_regions
+Tam O'Shanter,0,geo_regions
+Orange Creek,0,geo_regions
+Milbong,0,geo_regions
+Kooroomool,0,geo_regions
+North Maleny,0,geo_regions
+Dulong,0,geo_regions
+Meadowvale,0,geo_regions
+Laguna Quays,0,geo_regions
+Kinnoul,0,geo_regions
+Moresby,0,geo_regions
+Takura,0,geo_regions
+Bongeen,0,geo_regions
+Bungundarra,0,geo_regions
+Camp Creek,0,geo_regions
+Chewko,0,geo_regions
+Paddys Green,0,geo_regions
+Punsand,0,geo_regions
+Carpendale,0,geo_regions
+Lagoon Pocket,0,geo_regions
+South Mackay,0,geo_regions
+Jarvisfield,0,geo_regions
+Dunkeld,0,geo_regions
+North Isis,0,geo_regions
+Bridges,0,geo_regions
+Broadwater,0,geo_regions
+Mulambin,0,geo_regions
+Southern Cross,0,geo_regions
+Wooroonooran,0,geo_regions
+Avondale,0,geo_regions
+Rockyview,0,geo_regions
+Mount Pelion,0,geo_regions
+Kalpowar,0,geo_regions
+Ilkley,0,geo_regions
+Coolabunia,0,geo_regions
+Rosehill,0,geo_regions
+Horse Creek,0,geo_regions
+Lundavra,0,geo_regions
+Nahrunda,0,geo_regions
+Deuchar,0,geo_regions
+Innisfail Estate,0,geo_regions
+Ilbilbie,0,geo_regions
+Valkyrie,0,geo_regions
+East Nanango,0,geo_regions
+Taroomball,0,geo_regions
+Euramo,0,geo_regions
+South East Nanango,0,geo_regions
+Wilsons Pocket,0,geo_regions
+Cushnie,0,geo_regions
+Milman,0,geo_regions
+Stoneleigh,0,geo_regions
+Silky Oak,0,geo_regions
+Hudson,0,geo_regions
+The Percy Group,0,geo_regions
+Morganville,0,geo_regions
+Roche Creek,0,geo_regions
+Calavos,0,geo_regions
+Wheatlands,0,geo_regions
+Inverness,0,geo_regions
+Granville,0,geo_regions
+Little Mulgrave,0,geo_regions
+Kulangoor,0,geo_regions
+Beatrice,0,geo_regions
+Kinkuna,0,geo_regions
+Bergalia,0,geo_regions
+Bendolba,0,geo_regions
+Bellbird Heights,0,geo_regions
+Bellawongarah,0,geo_regions
+Billywillinga,0,geo_regions
+Binjura,0,geo_regions
+Akolele,0,geo_regions
+Allgomera,0,geo_regions
+Alumy Creek,0,geo_regions
+Arding,0,geo_regions
+Ashby,0,geo_regions
+Backmede,0,geo_regions
+Balala,0,geo_regions
+Balladoran,0,geo_regions
+Bandon Grove,0,geo_regions
+Bangalee,0,geo_regions
+Bannister,0,geo_regions
+Barcoongere,0,geo_regions
+Cania,0,geo_regions
+Duckenfield,0,geo_regions
+Tara,0,geo_regions
+Mundamia,0,geo_regions
+Knowsley,0,geo_regions
+Spring Flat,0,geo_regions
+Spring Grove,0,geo_regions
+Spring Terrace,0,geo_regions
+Springside,0,geo_regions
+Kanigan,0,geo_regions
+Baw Baw,0,geo_regions
+Barkers Vale,0,geo_regions
+Beaumont,0,geo_regions
+Stubbo,0,geo_regions
+Swan Bay,0,geo_regions
+Swan Bay,0,geo_regions
+Campwin Beach,0,geo_regions
+St Fillans,0,geo_regions
+Woongarra,0,geo_regions
+Rockmount,0,geo_regions
+Flametree,0,geo_regions
+Tinnanbar,0,geo_regions
+Yellow Rock,0,geo_regions
+Kains Flat,0,geo_regions
+Strathdownie,0,geo_regions
+Engawala,0,geo_regions
+Mitchells Flat,0,geo_regions
+Benerembah,0,geo_regions
+Newell,0,geo_regions
+Kerrigundi,0,geo_regions
+Murrin Bridge,0,geo_regions
+Huntley,0,geo_regions
+Gibson Desert South,0,geo_regions
+Leongatha South,0,geo_regions
+Seelands,0,geo_regions
+Patersonia,0,geo_regions
+Barmoya,0,geo_regions
+Bedgerebong,0,geo_regions
+Belbora,0,geo_regions
+Belgravia,0,geo_regions
+Bellangry,0,geo_regions
+Bellbird,0,geo_regions
+Beni,0,geo_regions
+Bentley,0,geo_regions
+Berrambool,0,geo_regions
+Biddon,0,geo_regions
+Big Springs,0,geo_regions
+Bingie,0,geo_regions
+Bishops Bridge,0,geo_regions
+Bithramere,0,geo_regions
+Hamilton Plains,0,geo_regions
+Ironpot,0,geo_regions
+Tungamull,0,geo_regions
+Kiama Heights,0,geo_regions
+Mount Isa City,0,geo_regions
+Raglan,0,geo_regions
+Mulgowie,0,geo_regions
+Scrubby Mountain,0,geo_regions
+Dundathu,0,geo_regions
+Ooralea,0,geo_regions
+South Carnarvon,0,geo_regions
+Horton,0,geo_regions
+Upper Tenthill,0,geo_regions
+Alva,0,geo_regions
+Bemerside,0,geo_regions
+Shelburne,0,geo_regions
+Walligan,0,geo_regions
+Lawgi Dawes,0,geo_regions
+Rewan,0,geo_regions
+Black Springs,0,geo_regions
+Boambee East,0,geo_regions
+Bombira,0,geo_regions
+Bombowlee,0,geo_regions
+Booerie Creek,0,geo_regions
+Boolambayte,0,geo_regions
+Booral,0,geo_regions
+Boorolong,0,geo_regions
+Bora Ridge,0,geo_regions
+Bournda,0,geo_regions
+Bowan Park,0,geo_regions
+Bowman,0,geo_regions
+Bridgman,0,geo_regions
+Brisbane Grove,0,geo_regions
+South Gundagai,0,geo_regions
+Bullioh,0,geo_regions
+Cloverlea,0,geo_regions
+Cobains,0,geo_regions
+Cororooke,0,geo_regions
+Coragulac,0,geo_regions
+Deep Lead,0,geo_regions
+Brookfield,0,geo_regions
+Broughton Vale,0,geo_regions
+Brownsville,0,geo_regions
+Bruah,0,geo_regions
+Bucca,0,geo_regions
+Bundabah,0,geo_regions
+Bundaburrah,0,geo_regions
+Bundagen,0,geo_regions
+Bungarby,0,geo_regions
+Bunglegumbie,0,geo_regions
+Bunyan,0,geo_regions
+Burnt Bridge,0,geo_regions
+Burrabadine,0,geo_regions
+Burragate,0,geo_regions
+Burrangong,0,geo_regions
+Burrell Creek,0,geo_regions
+Burrundulla,0,geo_regions
+Logie Brae,0,geo_regions
+Narraburra,0,geo_regions
+Drumborg,0,geo_regions
+Broadway,0,geo_regions
+Caffreys Flat,0,geo_regions
+Gapsted,0,geo_regions
+Glenfyne,0,geo_regions
+Calderwood,0,geo_regions
+Calimo,0,geo_regions
+Calliope,0,geo_regions
+Cambewarra,0,geo_regions
+Cangai,0,geo_regions
+Carrs Creek,0,geo_regions
+Castle Doyle,0,geo_regions
+Castle Rock,0,geo_regions
+Catalina,0,geo_regions
+South Lismore,0,geo_regions
+Tallwoods Village,0,geo_regions
+Greens Creek,0,geo_regions
+Leichardt,0,geo_regions
+Glenugie,0,geo_regions
+Victoria River,0,geo_regions
+South Spreyton,0,geo_regions
+Nullawarre,0,geo_regions
+Cambrian Hill,0,geo_regions
+Walkervale,0,geo_regions
+Skennars Head,0,geo_regions
+Eagle Bay,0,geo_regions
+Waranga Shores,0,geo_regions
+Paradise,0,geo_regions
+Marchmont,0,geo_regions
+Langkoop,0,geo_regions
+Whian Whian,0,geo_regions
+Won Wron,0,geo_regions
+Devon North,0,geo_regions
+Mogendoura,0,geo_regions
+Wellington Vale,0,geo_regions
+Spring Mountain,0,geo_regions
+Rouchel,0,geo_regions
+Chilcotts Grass,0,geo_regions
+Tapitallee,0,geo_regions
+Budgeree,0,geo_regions
+Stradbroke,0,geo_regions
+Sedgefield,0,geo_regions
+Thoopara,0,geo_regions
+Goodger,0,geo_regions
+Mount George,0,geo_regions
+Myrup,0,geo_regions
+Millbrook,0,geo_regions
+Mitchell Park,0,geo_regions
+Yarratt Forest,0,geo_regions
+North Narooma,0,geo_regions
+Cedar Party,0,geo_regions
+South Isis,0,geo_regions
+West Wodonga,0,geo_regions
+Wellington Park,0,geo_regions
+Mount Low,0,geo_regions
+Myola,0,geo_regions
+Victoria Plains,0,geo_regions
+Northdown,0,geo_regions
+Regency Downs,0,geo_regions
+Rileys Hill,0,geo_regions
+Kunparrka,0,geo_regions
+Sundown,0,geo_regions
+Windeyer,0,geo_regions
+Tutunup,0,geo_regions
+Stanage,0,geo_regions
+Hickeys Creek,0,geo_regions
+Fernleigh,0,geo_regions
+Lockwood South,0,geo_regions
+Concongella,0,geo_regions
+Hart,0,geo_regions
+Robinson River,0,geo_regions
+Yarrahapinni,0,geo_regions
+Eaton,0,geo_regions
+Baynton,0,geo_regions
+Woorarra West,0,geo_regions
+Simpson,0,geo_regions
+Tregeagle,0,geo_regions
+Southgate,0,geo_regions
+Drouin East,0,geo_regions
+Moe South,0,geo_regions
+Mirboo,0,geo_regions
+Little Forest,0,geo_regions
+Stony Chute,0,geo_regions
+Forest Reefs,0,geo_regions
+Robin Hill,0,geo_regions
+Lake Innes,0,geo_regions
+Nirranda,0,geo_regions
+Kimbriki,0,geo_regions
+Webb,0,geo_regions
+McKenzie Creek,0,geo_regions
+Echuca Village,0,geo_regions
+Eulah Creek,0,geo_regions
+Boorcan,0,geo_regions
+Calivil,0,geo_regions
+Trafalgar South,0,geo_regions
+Huon Creek,0,geo_regions
+Elliminyt,0,geo_regions
+Hepburn,0,geo_regions
+Roseberry Creek,0,geo_regions
+North Casino,0,geo_regions
+Lucknow,0,geo_regions
+Upper Corindi,0,geo_regions
+Frankford,0,geo_regions
+Portland West,0,geo_regions
+Rock Valley,0,geo_regions
+Mount Thorley,0,geo_regions
+Leeuwin,0,geo_regions
+Lamb Range,0,geo_regions
+Sassafras,0,geo_regions
+Mount Lindesay,0,geo_regions
+Wongabel,0,geo_regions
+East Pingelly,0,geo_regions
+Alloway,0,geo_regions
+Arcturus,0,geo_regions
+Argoon,0,geo_regions
+Ashfield,0,geo_regions
+Avenell Heights,0,geo_regions
+Back Plains,0,geo_regions
+Balberra,0,geo_regions
+Ballogie,0,geo_regions
+Balnagowan,0,geo_regions
+Bambaroo,0,geo_regions
+Barmaryee,0,geo_regions
+Barrine,0,geo_regions
+Barron Gorge,0,geo_regions
+Basilisk,0,geo_regions
+Bauple Forest,0,geo_regions
+Beach Holm,0,geo_regions
+Beecher,0,geo_regions
+Bells Bridge,0,geo_regions
+Benarkin North,0,geo_regions
+Biboohra,0,geo_regions
+Bidwill,0,geo_regions
+Binjour,0,geo_regions
+Birkalla,0,geo_regions
+Black Duck Creek,0,geo_regions
+Heathmere,0,geo_regions
+Highlands,0,geo_regions
+Hilldene,0,geo_regions
+Huon,0,geo_regions
+Irrewarra,0,geo_regions
+Landsborough,0,geo_regions
+Lucknow,0,geo_regions
+Lurg,0,geo_regions
+Blackbutt North,0,geo_regions
+Blackrock,0,geo_regions
+Bohle,0,geo_regions
+Bollier,0,geo_regions
+Bondoola,0,geo_regions
+Bonnie Doon,0,geo_regions
+Boompa,0,geo_regions
+Boonooroo,0,geo_regions
+Booyal,0,geo_regions
+Boynewood,0,geo_regions
+Braemeadows,0,geo_regions
+Braemore,0,geo_regions
+Branyan,0,geo_regions
+Brooklands,0,geo_regions
+Brookstead,0,geo_regions
+Broughton,0,geo_regions
+Bucca,0,geo_regions
+Bulgun,0,geo_regions
+Bungadoo,0,geo_regions
+Bungalow,0,geo_regions
+Burdell,0,geo_regions
+Burra Burri,0,geo_regions
+Burua,0,geo_regions
+Byellee,0,geo_regions
+Calico Creek,0,geo_regions
+Callemondah,0,geo_regions
+Campaspe,0,geo_regions
+Canina,0,geo_regions
+Canningvale,0,geo_regions
+Cannon Valley,0,geo_regions
+Cape Conway,0,geo_regions
+Captain Creek,0,geo_regions
+Carmoo,0,geo_regions
+Carruchan,0,geo_regions
+Carters Ridge,0,geo_regions
+Cedar Pocket,0,geo_regions
+Chances Plain,0,geo_regions
+Churchable,0,geo_regions
+Cinnabar,0,geo_regions
+Coconuts,0,geo_regions
+Colosseum,0,geo_regions
+Conway,0,geo_regions
+Coolmunda,0,geo_regions
+Chatsworth,0,geo_regions
+Cooloolabin,0,geo_regions
+Coonarr,0,geo_regions
+Cooranga,0,geo_regions
+Coppabella,0,geo_regions
+Cottonvale,0,geo_regions
+Cow Bay,0,geo_regions
+Craiglie,0,geo_regions
+Craignish,0,geo_regions
+Crediton,0,geo_regions
+Croftby,0,geo_regions
+Crossroads,0,geo_regions
+Cullinane,0,geo_regions
+Cungulla,0,geo_regions
+Dalcouth,0,geo_regions
+Dallarnil,0,geo_regions
+Dalysford,0,geo_regions
+Deepwater,0,geo_regions
+Delan,0,geo_regions
+Diamond Valley,0,geo_regions
+Coffee Camp,0,geo_regions
+Collendina,0,geo_regions
+Comberton,0,geo_regions
+Comobella,0,geo_regions
+Congarinni North,0,geo_regions
+Congewai,0,geo_regions
+Dingo Pocket,0,geo_regions
+Dolphin Heads,0,geo_regions
+Cooks Gap,0,geo_regions
+Cooks Myalls,0,geo_regions
+Coolagolite,0,geo_regions
+Ducklo,0,geo_regions
+Coomealla,0,geo_regions
+Dumbleton,0,geo_regions
+Coorabell,0,geo_regions
+Dundowran,0,geo_regions
+Dundowran Beach,0,geo_regions
+Dunk,0,geo_regions
+Dunnrock,0,geo_regions
+Earlville,0,geo_regions
+East Barron,0,geo_regions
+East Feluga,0,geo_regions
+East Palmerston,0,geo_regions
+Cooyal,0,geo_regions
+Coralville,0,geo_regions
+Courabyra,0,geo_regions
+Eidsvold West,0,geo_regions
+Eli Waters,0,geo_regions
+Laharum,0,geo_regions
+Ellangowan,0,geo_regions
+Coxs Creek,0,geo_regions
+Craven,0,geo_regions
+Crosslands,0,geo_regions
+Junortoun,0,geo_regions
+Kanyapella,0,geo_regions
+Cudmirrah,0,geo_regions
+Cumboogle,0,geo_regions
+Dalwood,0,geo_regions
+Dandry,0,geo_regions
+Dargan,0,geo_regions
+Darkwood,0,geo_regions
+Delroy Heights,0,geo_regions
+Deua River Valley,0,geo_regions
+Dignams Creek,0,geo_regions
+Dolphin Point,0,geo_regions
+Dondingalong,0,geo_regions
+Doonbah,0,geo_regions
+Durras North,0,geo_regions
+Duckmaloi,0,geo_regions
+Dulguigan,0,geo_regions
+Dungowan,0,geo_regions
+Ellesmere,0,geo_regions
+Ellerbeck,0,geo_regions
+Gooburrum,0,geo_regions
+Goodwood,0,geo_regions
+Goomboorian,0,geo_regions
+Goondi Bend,0,geo_regions
+Goondi Hill,0,geo_regions
+Eagleton,0,geo_regions
+East Branxton,0,geo_regions
+East Kempsey,0,geo_regions
+Green Hill,0,geo_regions
+Greenlands,0,geo_regions
+Edith,0,geo_regions
+Hannaford,0,geo_regions
+Happy Valley,0,geo_regions
+Eden Creek,0,geo_regions
+Elland,0,geo_regions
+Hawkins Creek,0,geo_regions
+Ellangowan,0,geo_regions
+Ellerslie,0,geo_regions
+Elrington,0,geo_regions
+Emerald Beach,0,geo_regions
+Hidden Valley,0,geo_regions
+Hinchinbrook,0,geo_regions
+Inglestone,0,geo_regions
+Kirkwood,0,geo_regions
+Nilma North,0,geo_regions
+Paradise,0,geo_regions
+Ettrick,0,geo_regions
+Eschol,0,geo_regions
+Eungai Rail,0,geo_regions
+Eureka,0,geo_regions
+Euroka,0,geo_regions
+Evans Plains,0,geo_regions
+Eviron,0,geo_regions
+Ewingar,0,geo_regions
+Emerald Hill,0,geo_regions
+Far Meadow,0,geo_regions
+Fawcetts Plain,0,geo_regions
+Lonesome Creek,0,geo_regions
+Fernbank Creek,0,geo_regions
+Fernhill,0,geo_regions
+Long Pocket,0,geo_regions
+Firefly,0,geo_regions
+Fishermans Reach,0,geo_regions
+Maaroom,0,geo_regions
+Fosters Valley,0,geo_regions
+Fosterton,0,geo_regions
+Frazers Creek,0,geo_regions
+Gillenbah,0,geo_regions
+Garra,0,geo_regions
+Geneva,0,geo_regions
+Georges Plains,0,geo_regions
+Georgica,0,geo_regions
+Giants Creek,0,geo_regions
+Girards Hill,0,geo_regions
+Koah,0,geo_regions
+Nareen,0,geo_regions
+Pomborneit,0,geo_regions
+Kullogum,0,geo_regions
+Kureen,0,geo_regions
+Kurrimine Beach,0,geo_regions
+Kuttabul,0,geo_regions
+Limestone Creek,0,geo_regions
+Sailors Gully,0,geo_regions
+Sandon,0,geo_regions
+Scotts Creek,0,geo_regions
+Telopea Downs,0,geo_regions
+Strathdale,0,geo_regions
+Spring Gully,0,geo_regions
+Willowmavin,0,geo_regions
+Wooragee,0,geo_regions
+Thornton,0,geo_regions
+Mackenzie River,0,geo_regions
+Mandalay,0,geo_regions
+Nikenbah,0,geo_regions
+Noorindoo,0,geo_regions
+Norman Gardens,0,geo_regions
+North Deep Creek,0,geo_regions
+North Mackay,0,geo_regions
+North Talwood,0,geo_regions
+Norville,0,geo_regions
+O'Connell,0,geo_regions
+Oakhurst,0,geo_regions
+Osborne,0,geo_regions
+Owanyilla,0,geo_regions
+Pacific Haven,0,geo_regions
+Pacific Heights,0,geo_regions
+Paget,0,geo_regions
+Palm Grove,0,geo_regions
+Parramatta Park,0,geo_regions
+Paterson,0,geo_regions
+Peeramon,0,geo_regions
+Perwillowen,0,geo_regions
+Pierces Creek,0,geo_regions
+Pine Creek,0,geo_regions
+Pink Lily,0,geo_regions
+Pinnacles,0,geo_regions
+Piturie,0,geo_regions
+Point Vernon,0,geo_regions
+Poona,0,geo_regions
+Port Curtis,0,geo_regions
+Portsmith,0,geo_regions
+Pozieres,0,geo_regions
+Prince Of Wales,0,geo_regions
+Rangewood,0,geo_regions
+Etna Creek,0,geo_regions
+Elliott,0,geo_regions
+Emu Creek,0,geo_regions
+Emu Vale,0,geo_regions
+Erakala,0,geo_regions
+Eubenangee,0,geo_regions
+Euleilah,0,geo_regions
+Eumamurrin,0,geo_regions
+Eungella,0,geo_regions
+Euthulla,0,geo_regions
+Evans Landing,0,geo_regions
+Evelyn,0,geo_regions
+Fairy Bower,0,geo_regions
+Farleigh,0,geo_regions
+Feluga,0,geo_regions
+Fisher,0,geo_regions
+Fishery Falls,0,geo_regions
+Fitzgerald Creek,0,geo_regions
+Fredericksfield,0,geo_regions
+Freestone,0,geo_regions
+Frenches Creek,0,geo_regions
+Freshwater Point,0,geo_regions
+Gaeta,0,geo_regions
+Gheerulla,0,geo_regions
+Gindoran,0,geo_regions
+Glan Devon,0,geo_regions
+Glastonbury,0,geo_regions
+Glen Aplin,0,geo_regions
+Glen Eden,0,geo_regions
+Glen Isla,0,geo_regions
+Glenaven,0,geo_regions
+Glendale,0,geo_regions
+Kensington,0,geo_regions
+Kensington Grove,0,geo_regions
+Keriri Island,0,geo_regions
+Kianga,0,geo_regions
+Maria Creeks,0,geo_regions
+Maroondan,0,geo_regions
+Maryborough West,0,geo_regions
+McDesme,0,geo_regions
+Mondure,0,geo_regions
+Moolboolaman,0,geo_regions
+Sarina Range,0,geo_regions
+Seventy Mile,0,geo_regions
+Shannonvale,0,geo_regions
+The Mine,0,geo_regions
+The Palms,0,geo_regions
+Theresa Creek,0,geo_regions
+Tinana South,0,geo_regions
+Tingun,0,geo_regions
+Wondunna,0,geo_regions
+Woodbury,0,geo_regions
+Wooderson,0,geo_regions
+Glenlee,0,geo_regions
+Glenrae,0,geo_regions
+Goldsborough,0,geo_regions
+Gregory River,0,geo_regions
+Gulngai,0,geo_regions
+Gumlow,0,geo_regions
+Horse Camp,0,geo_regions
+Loch Lomond,0,geo_regions
+Mackay Harbour,0,geo_regions
+Maneroo,0,geo_regions
+Manunda,0,geo_regions
+Mount Kelly,0,geo_regions
+Mount Ossa,0,geo_regions
+Roseneath,0,geo_regions
+Tansey,0,geo_regions
+Tarome,0,geo_regions
+Taromeo,0,geo_regions
+Teddington,0,geo_regions
+Telina,0,geo_regions
+The Falls,0,geo_regions
+The Keppels,0,geo_regions
+Wootha,0,geo_regions
+Wrights Creek,0,geo_regions
+Guthalungra,0,geo_regions
+Healy,0,geo_regions
+Heatley,0,geo_regions
+Jerona,0,geo_regions
+Jubilee Pocket,0,geo_regions
+Julago,0,geo_regions
+Julatten,0,geo_regions
+Moffatdale,0,geo_regions
+Moonford,0,geo_regions
+Inverlaw,0,geo_regions
+Irongate,0,geo_regions
+Isis Central,0,geo_regions
+Isla,0,geo_regions
+Kilcummin,0,geo_regions
+Laidley Heights,0,geo_regions
+Lake Barrine,0,geo_regions
+Lake Mary,0,geo_regions
+Mount Rooper,0,geo_regions
+Mount Sylvia,0,geo_regions
+Mount Tarampa,0,geo_regions
+Sandiford,0,geo_regions
+Smoky Creek,0,geo_regions
+Somerset Dam,0,geo_regions
+South Innisfail,0,geo_regions
+Wattle Camp,0,geo_regions
+Welcome Creek,0,geo_regions
+Junabee,0,geo_regions
+Mundowran,0,geo_regions
+Kaban,0,geo_regions
+Kelsey Creek,0,geo_regions
+Langshaw,0,geo_regions
+Millmerran Downs,0,geo_regions
+Millstream,0,geo_regions
+Riordanvale,0,geo_regions
+Trinity Park,0,geo_regions
+Trunding,0,geo_regions
+Umagico,0,geo_regions
+Upper Lockyer,0,geo_regions
+Vasa Views,0,geo_regions
+Victoria Plantation,0,geo_regions
+Wallu,0,geo_regions
+Lalalty,0,geo_regions
+Wallumbilla North,0,geo_regions
+Wallumbilla South,0,geo_regions
+Lissner,0,geo_regions
+Menzies,0,geo_regions
+Miallo,0,geo_regions
+Mica Creek,0,geo_regions
+Nandi,0,geo_regions
+Nankin,0,geo_regions
+Neerdie,0,geo_regions
+Svensson Heights,0,geo_regions
+Tanby,0,geo_regions
+Tandur,0,geo_regions
+The Cape,0,geo_regions
+Topaz,0,geo_regions
+Mighell,0,geo_regions
+Miles End,0,geo_regions
+Morton Vale,0,geo_regions
+Mothar Mountain,0,geo_regions
+Mount Abundance,0,geo_regions
+Rubyanna,0,geo_regions
+Runnymede,0,geo_regions
+Moorland,0,geo_regions
+Mount Elliot,0,geo_regions
+Mount Jukes,0,geo_regions
+Mowbray,0,geo_regions
+Woollamia,0,geo_regions
+Cardigan Village,0,geo_regions
+Sawmill Settlement,0,geo_regions
+Mooloolah,0,geo_regions
+Emerald Beach West,0,geo_regions
+Munbura,0,geo_regions
+Wangan,0,geo_regions
+Richmond Hill,0,geo_regions
+Safety Beach,0,geo_regions
+Mungabunda,0,geo_regions
+Murray,0,geo_regions
+Murray Upper,0,geo_regions
+Summerholm,0,geo_regions
+Girral,0,geo_regions
+Sun Valley,0,geo_regions
+Sunset,0,geo_regions
+Sunshine Acres,0,geo_regions
+Townview,0,geo_regions
+Kurri Kurri - Weston,0,geo_regions
+Nelson Bay - Corlette,0,geo_regions
+Salamander Bay - Soldiers Point,0,geo_regions
+St Georges Basin - Sanctuary Point,0,geo_regions
+Summerland Point - Gwandalan,0,geo_regions
+Broulee - Mossy Point,0,geo_regions
+Harden - Murrumburrah,0,geo_regions
+Berrara - Cudmirrah,0,geo_regions
+Hallidays Point - Black Head,0,geo_regions
+Smithtown - Gladstone,0,geo_regions
+Boomerang Beach - Blueys Beach,0,geo_regions
+Moe - Newborough,0,geo_regions
+Aireys Inlet - Fairhaven,0,geo_regions
+Wandong - Heathcote Junction,0,geo_regions
+Woori Yallock - Launching Place,0,geo_regions
+Surf Beach - Sunderland Bay,0,geo_regions
+Golden Beach - Paradise Beach,0,geo_regions
+Bongaree - Woorim,0,geo_regions
+Port Douglas - Craiglie,0,geo_regions
+Samford Valley - Highvale,0,geo_regions
+Boonooroo - Tuan,0,geo_regions
+Torquay - Jan Juc,0,geo_regions
+Haliday Bay - Ball Bay,0,geo_regions
+Hideaway Bay - Dingo Beach,0,geo_regions
+Crafers - Bridgewater,0,geo_regions
+Port Denison - Dongara,0,geo_regions
+Uraidla - Summertown,0,geo_regions
+Boddington - Ranford,0,geo_regions
+Lanena - Blackwall,0,geo_regions
+New Harbourline,0,geo_regions
+Lower Snug - Coningham,0,geo_regions
+Daguragu - Kalkarindji,0,geo_regions
+Bulman - Weemol,0,geo_regions
+Wagait Beach - Mandorah,0,geo_regions
+South Pambula,0,geo_regions
+Wallaga Lake,0,geo_regions
+Redridge,0,geo_regions
+Reesville,0,geo_regions
+Stockyard,0,geo_regions
+Gabbadah,0,geo_regions
+Djarindjin - Lombadina,0,geo_regions
+Ridgley,0,geo_regions
+Wugular,0,geo_regions
+Walter Hill,0,geo_regions
+Wangan,0,geo_regions
+Burnie - Somerset,0,geo_regions
+South Mission Beach,0,geo_regions
+Wurdong Heights,0,geo_regions
+South Trees,0,geo_regions
+Samford Village,0,geo_regions
+St Pauls,0,geo_regions
+Spring Creek,0,geo_regions
+Rocky Point,0,geo_regions
+Rosslyn,0,geo_regions
+West Point,0,geo_regions
+West Stowe,0,geo_regions
+White Rock,0,geo_regions
+Whyanbeel,0,geo_regions
+Willows,0,geo_regions
+Winfield,0,geo_regions
+Winston,0,geo_regions
+Wurdong Heights,0,geo_regions
+Yandaran,0,geo_regions
+Yarrol,0,geo_regions
+Yerra,0,geo_regions
+Arafura Sea,0,geo_regions
+Coral Sea,0,geo_regions
+Torres Strait,0,geo_regions
+Mount Julian,0,geo_regions
+Kearsley,0,geo_regions
+Mole River,0,geo_regions
+Wattamondara,0,geo_regions
+Riverside,0,geo_regions
+Crossley,0,geo_regions
+Bonville East,0,geo_regions
+Upper Plenty,0,geo_regions
+Wahring,0,geo_regions
+Toolondo,0,geo_regions
+Konongwootong,0,geo_regions
+Cudgee,0,geo_regions
+South Wonga Park,0,geo_regions
+West Hallidays Point,0,geo_regions
+West Lennox Head,0,geo_regions
+South Mareeba,0,geo_regions
+East Burrum Heads,0,geo_regions
+West Bullsbrook,0,geo_regions
+West Bonny Hills,0,geo_regions
+Stroud Road,0,geo_regions
+Acacia Hills,0,geo_regions
+Lilli Pilli,0,geo_regions
+Glenroy,0,geo_regions
+Lake Tyers Beach,0,geo_regions
+Megan,0,geo_regions
+Millfield,0,geo_regions
+Mindaribba,0,geo_regions
+Mitchell,0,geo_regions
+Penrose,0,geo_regions
+Gladstone,0,geo_regions
+Glen William,0,geo_regions
+Glendon Brook,0,geo_regions
+Glenridding,0,geo_regions
+Glenrock,0,geo_regions
+Glenthorne,0,geo_regions
+Good Hope,0,geo_regions
+Goodnight,0,geo_regions
+Goolhi,0,geo_regions
+Gormans Hill,0,geo_regions
+Grants Beach,0,geo_regions
+Grattai,0,geo_regions
+Grawlin,0,geo_regions
+Green Point,0,geo_regions
+Greenhill,0,geo_regions
+Greenridge,0,geo_regions
+Gresford,0,geo_regions
+Gum Flat,0,geo_regions
+Gumma,0,geo_regions
+Gundary,0,geo_regions
+Halfway Creek,0,geo_regions
+Hallsville,0,geo_regions
+Greigs Flat,0,geo_regions
+Harolds Cross,0,geo_regions
+Hassans Walls,0,geo_regions
+Harwood,0,geo_regions
+Lorne,0,geo_regions
+Lovedale,0,geo_regions
+Lower Belford,0,geo_regions
+Lower Dyraaba,0,geo_regions
+Lower Pappinbarra,0,geo_regions
+Lynchs Creek,0,geo_regions
+Lynwood,0,geo_regions
+Muli Muli,0,geo_regions
+Mullaway,0,geo_regions
+Mulloon,0,geo_regions
+Mullumbimby Creek,0,geo_regions
+Mundongo,0,geo_regions
+Murray Downs,0,geo_regions
+Purfleet,0,geo_regions
+Putta Bucca,0,geo_regions
+Quialigo,0,geo_regions
+Quorrobolong,0,geo_regions
+Ramornie,0,geo_regions
+Ravenswood,0,geo_regions
+Raworth,0,geo_regions
+Red Head,0,geo_regions
+Surfside,0,geo_regions
+Tanja,0,geo_regions
+Taree South,0,geo_regions
+Tarraganda,0,geo_regions
+Temagog,0,geo_regions
+Terania Creek,0,geo_regions
+West Nowra,0,geo_regions
+Westdale,0,geo_regions
+Wherrol Flat,0,geo_regions
+White Rock,0,geo_regions
+Whittingham,0,geo_regions
+Whoota,0,geo_regions
+Willawarrin,0,geo_regions
+Windellama,0,geo_regions
+Maddens Plains,0,geo_regions
+Main Arm,0,geo_regions
+Maison Dieu,0,geo_regions
+Mallanganee,0,geo_regions
+Markwell,0,geo_regions
+Mallowa,0,geo_regions
+Marthaguy,0,geo_regions
+Neurea,0,geo_regions
+Newbridge,0,geo_regions
+North Batemans Bay,0,geo_regions
+North Boambee Valley,0,geo_regions
+Rowlands Creek,0,geo_regions
+Run-o-Waters,0,geo_regions
+Rye Park,0,geo_regions
+Safety Beach,0,geo_regions
+Salisbury Plains,0,geo_regions
+Sancrox,0,geo_regions
+Sandy Beach,0,geo_regions
+Upper Lansdowne,0,geo_regions
+Upper Main Arm,0,geo_regions
+Upper Manilla,0,geo_regions
+Upper Rollands Plains,0,geo_regions
+Vale Of Clwydd,0,geo_regions
+Valla Beach,0,geo_regions
+Martindale,0,geo_regions
+Marys Mount,0,geo_regions
+McDougalls Hill,0,geo_regions
+McKellars Park,0,geo_regions
+McLeans Ridges,0,geo_regions
+Meadow Flat,0,geo_regions
+Memagong,0,geo_regions
+Menah,0,geo_regions
+Nunderi,0,geo_regions
+Nungatta,0,geo_regions
+Nurenmerenmong,0,geo_regions
+Oakhampton,0,geo_regions
+Oaky Park,0,geo_regions
+Obley,0,geo_regions
+Old Grevillia,0,geo_regions
+South Pambula,0,geo_regions
+Southampton,0,geo_regions
+Stanford Merthyr,0,geo_regions
+Stuarts Point,0,geo_regions
+Stud Park,0,geo_regions
+Summer Hill Creek,0,geo_regions
+Sunset Strip,0,geo_regions
+Sunshine Bay,0,geo_regions
+Surf Beach,0,geo_regions
+Woodview,0,geo_regions
+Wooli,0,geo_regions
+Woollamia,0,geo_regions
+Wootton,0,geo_regions
+Wooyung,0,geo_regions
+Worrigee,0,geo_regions
+Worrowing Heights,0,geo_regions
+Wybung,0,geo_regions
+Yarrabar,0,geo_regions
+Yarranbella,0,geo_regions
+Merah North,0,geo_regions
+Meroo Meadow,0,geo_regions
+Middle Brook,0,geo_regions
+Mila,0,geo_regions
+Minnie Water,0,geo_regions
+Minore Falls,0,geo_regions
+Missabotti,0,geo_regions
+Mogareeka,0,geo_regions
+Mogood,0,geo_regions
+Monaltrie,0,geo_regions
+Polo Flat,0,geo_regions
+Pomona,0,geo_regions
+Porters Retreat,0,geo_regions
+Possum Brush,0,geo_regions
+Possum Creek,0,geo_regions
+Primrose Valley,0,geo_regions
+Providence Portal,0,geo_regions
+Redbank,0,geo_regions
+Redbournberry,0,geo_regions
+Tyagarah,0,geo_regions
+Tyndale,0,geo_regions
+Verges Creek,0,geo_regions
+Verona,0,geo_regions
+Violet Hill,0,geo_regions
+Wallaga Lake,0,geo_regions
+Wallagoot,0,geo_regions
+Wallamore,0,geo_regions
+Wallarobba,0,geo_regions
+Wandella,0,geo_regions
+Mondayong,0,geo_regions
+Mooball,0,geo_regions
+Moobi,0,geo_regions
+Mooneba,0,geo_regions
+Moorbel,0,geo_regions
+Moore Creek,0,geo_regions
+Moorland,0,geo_regions
+Morton,0,geo_regions
+Morts Estate,0,geo_regions
+Moruya Heads,0,geo_regions
+Mossy Point,0,geo_regions
+Moto,0,geo_regions
+Mount Arthur,0,geo_regions
+Mount Fairy,0,geo_regions
+Mount Olive,0,geo_regions
+Mount Rankin,0,geo_regions
+Sherwood,0,geo_regions
+Singleton Heights,0,geo_regions
+Smiths Creek,0,geo_regions
+South Arm,0,geo_regions
+South Bowenfels,0,geo_regions
+South Bathurst,0,geo_regions
+South Grafton,0,geo_regions
+South Gundurimba,0,geo_regions
+Yorklea,0,geo_regions
+Yuraygir,0,geo_regions
+Keepit,0,geo_regions
+Keerrong,0,geo_regions
+Keith Hall,0,geo_regions
+Kiah,0,geo_regions
+Myocum,0,geo_regions
+Myrtleville,0,geo_regions
+Nanima,0,geo_regions
+Napoleon Reef,0,geo_regions
+Neath,0,geo_regions
+Nericon,0,geo_regions
+Nerong,0,geo_regions
+North Brother,0,geo_regions
+Thrumster,0,geo_regions
+Timbumburi,0,geo_regions
+Townsend,0,geo_regions
+Tucabia,0,geo_regions
+Tucki Tucki,0,geo_regions
+Tuckombil,0,geo_regions
+Tullera,0,geo_regions
+Tullimbar,0,geo_regions
+Killabakh,0,geo_regions
+Kindee,0,geo_regions
+King Creek,0,geo_regions
+Kingsvale,0,geo_regions
+Parkesbourne,0,geo_regions
+Parma,0,geo_regions
+Parraweena,0,geo_regions
+Peel,0,geo_regions
+Pembrooke,0,geo_regions
+Pimlico,0,geo_regions
+Piallaway,0,geo_regions
+Pine Ridge,0,geo_regions
+Winton,0,geo_regions
+Wirlinga,0,geo_regions
+Wittitrin,0,geo_regions
+Wombeyan Caves,0,geo_regions
+Yarravel,0,geo_regions
+Woodsreef,0,geo_regions
+Yarrawonga,0,geo_regions
+Yarrie Lake,0,geo_regions
+Kirkconnell,0,geo_regions
+Knockrow,0,geo_regions
+Koorainghat,0,geo_regions
+Korora,0,geo_regions
+Kundle Kundle,0,geo_regions
+Rosebank,0,geo_regions
+Rosebrook,0,geo_regions
+Rous,0,geo_regions
+Rous Mill,0,geo_regions
+Sapphire Beach,0,geo_regions
+Saumarez Ponds,0,geo_regions
+Segenhoe,0,geo_regions
+Lade Vale,0,geo_regions
+Lagoon Grass,0,geo_regions
+Lakewood,0,geo_regions
+Lambs Valley,0,geo_regions
+Lansdowne Forest,0,geo_regions
+Larras Lee,0,geo_regions
+Leconfield,0,geo_regions
+The Lagoon,0,geo_regions
+The Pinnacles,0,geo_regions
+The Ridgeway,0,geo_regions
+The Whiteman,0,geo_regions
+Turlinjah,0,geo_regions
+Lewis Ponds,0,geo_regions
+Leycester,0,geo_regions
+Lidsdale,0,geo_regions
+Lindendale,0,geo_regions
+Lindifferon,0,geo_regions
+Littleton,0,geo_regions
+Llanarth,0,geo_regions
+Wells Crossing,0,geo_regions
+West Ballina,0,geo_regions
+West Bathurst,0,geo_regions
+West Kempsey,0,geo_regions
+West Haven,0,geo_regions
+Windradyne,0,geo_regions
+Winifred,0,geo_regions
+Yass River,0,geo_regions
+Yatte Yattah,0,geo_regions
+Loftville,0,geo_regions
+Lochiel,0,geo_regions
+Logans Crossing,0,geo_regions
+Long Beach,0,geo_regions
+Mount Vincent,0,geo_regions
+Mountain View,0,geo_regions
+Mugga Downs,0,geo_regions
+Mutawintji,0,geo_regions
+North Dorrigo,0,geo_regions
+North Macksville,0,geo_regions
+North Nowra,0,geo_regions
+North Shore,0,geo_regions
+Nowra Hill,0,geo_regions
+Nullamanna,0,geo_regions
+Oxley Island,0,geo_regions
+Pitnacree,0,geo_regions
+Hay South,0,geo_regions
+Haywards Bay,0,geo_regions
+Hermitage Flat,0,geo_regions
+Hernani,0,geo_regions
+Shannon Brook,0,geo_regions
+South Guyra,0,geo_regions
+South Kempsey,0,geo_regions
+South Littleton,0,geo_regions
+South Nowra,0,geo_regions
+Terara,0,geo_regions
+Terramungamine,0,geo_regions
+Tewinga,0,geo_regions
+Thalgarrah,0,geo_regions
+Warraderry,0,geo_regions
+Warri,0,geo_regions
+Watsons Creek,0,geo_regions
+Wattle Flat,0,geo_regions
+Wattle Ponds,0,geo_regions
+Waukivory,0,geo_regions
+Way Way,0,geo_regions
+Weilmoringle,0,geo_regions
+Hillville,0,geo_regions
+Hogarth Range,0,geo_regions
+Homeleigh,0,geo_regions
+Hopkins Creek,0,geo_regions
+Horse Station Creek,0,geo_regions
+Hunterview,0,geo_regions
+Huonbrook,0,geo_regions
+Hyland Park,0,geo_regions
+Jacks Creek,0,geo_regions
+James Creek,0,geo_regions
+Jeir,0,geo_regions
+Jellat Jellat,0,geo_regions
+Jemalong,0,geo_regions
+Jeremadra,0,geo_regions
+Jerrara,0,geo_regions
+Jiggi,0,geo_regions
+Johns River,0,geo_regions
+Jolly Nose,0,geo_regions
+Junction Hill,0,geo_regions
+Kalang,0,geo_regions
+Kalaru,0,geo_regions
+Kangaroo Creek,0,geo_regions
+Kanimbla,0,geo_regions
+Kanoona,0,geo_regions
+Reedy Creek,0,geo_regions
+Richmond Hill,0,geo_regions
+Riverside,0,geo_regions
+Rock Flat,0,geo_regions
+Rock Forest,0,geo_regions
+Shadforth,0,geo_regions
+York Plains,0,geo_regions
+Woodsdale,0,geo_regions
+Wivenhoe,0,geo_regions
+Swan Point,0,geo_regions
+Tinderbox,0,geo_regions
+Turners Marsh,0,geo_regions
+Underwood,0,geo_regions
+Wattle Hill,0,geo_regions
+Wesley Vale,0,geo_regions
+West Kentish,0,geo_regions
+West Ulverstone,0,geo_regions
+Western Junction,0,geo_regions
+White Hills,0,geo_regions
+Wilburville,0,geo_regions
+Wilmot,0,geo_regions
+Windermere,0,geo_regions
+Longley,0,geo_regions
+Lonnavale,0,geo_regions
+Lower Snug,0,geo_regions
+Lymington,0,geo_regions
+Mengha,0,geo_regions
+Middleton,0,geo_regions
+Molesworth,0,geo_regions
+Montagu,0,geo_regions
+Moriarty,0,geo_regions
+Mount Hicks,0,geo_regions
+Mount William,0,geo_regions
+National Park,0,geo_regions
+Nook,0,geo_regions
+North Scottsdale,0,geo_regions
+Ocean Vista,0,geo_regions
+Orielton,0,geo_regions
+Pegarah,0,geo_regions
+Raminea,0,geo_regions
+Redpa,0,geo_regions
+Reedy Marsh,0,geo_regions
+Relbia,0,geo_regions
+Ridgley,0,geo_regions
+Rocky Cape,0,geo_regions
+Sassafras,0,geo_regions
+Scotchtown,0,geo_regions
+Seven Mile Beach,0,geo_regions
+Sisters Creek,0,geo_regions
+Southwest,0,geo_regions
+Springfield,0,geo_regions
+Squeaking Point,0,geo_regions
+Staverton,0,geo_regions
+Sulphur Creek,0,geo_regions
+Swan Bay,0,geo_regions
+Crabtree,0,geo_regions
+Deep Bay,0,geo_regions
+Deviot,0,geo_regions
+Dolphin Sands,0,geo_regions
+Dulcot,0,geo_regions
+Dysart,0,geo_regions
+East Devonport,0,geo_regions
+Emu Heights,0,geo_regions
+Gawler,0,geo_regions
+Glenfern,0,geo_regions
+Golden Valley,0,geo_regions
+Gordon,0,geo_regions
+Gravelly Beach,0,geo_regions
+Gray,0,geo_regions
+Greens Beach,0,geo_regions
+Havenview,0,geo_regions
+Hayes,0,geo_regions
+Hellyer,0,geo_regions
+Henrietta,0,geo_regions
+Herdsmans Cove,0,geo_regions
+Highclere,0,geo_regions
+Highcroft,0,geo_regions
+Holwell,0,geo_regions
+Honeywood,0,geo_regions
+Irishtown,0,geo_regions
+Kaoota,0,geo_regions
+Kindred,0,geo_regions
+Lawitta,0,geo_regions
+Lachlan,0,geo_regions
+Legerwood,0,geo_regions
+Leslie Vale,0,geo_regions
+Lewisham,0,geo_regions
+Lakewood Estate,0,geo_regions
+Yourdamung Lake,0,geo_regions
+Aberdeen,0,geo_regions
+Akaroa,0,geo_regions
+Allens Rivulet,0,geo_regions
+Birralee,0,geo_regions
+Bushy Park,0,geo_regions
+Bakers Beach,0,geo_regions
+Beaumaris,0,geo_regions
+Calder,0,geo_regions
+Carlton,0,geo_regions
+Clarence Point,0,geo_regions
+Colebrook,0,geo_regions
+Connellys Marsh,0,geo_regions
+Waterbank,0,geo_regions
+West Busselton,0,geo_regions
+West Lamington,0,geo_regions
+White Peak,0,geo_regions
+Whiteman,0,geo_regions
+Wilyabrup,0,geo_regions
+Windabout,0,geo_regions
+Larpent,0,geo_regions
+Withers,0,geo_regions
+Yallingup Siding,0,geo_regions
+Yalyalup,0,geo_regions
+Yanmah,0,geo_regions
+Yeagarup,0,geo_regions
+Youngs Siding,0,geo_regions
+South Kalgoorlie,0,geo_regions
+South Murchison,0,geo_regions
+South Plantations,0,geo_regions
+South Tammin,0,geo_regions
+Stratham,0,geo_regions
+Sturt Creek,0,geo_regions
+Tanami,0,geo_regions
+Upper Capel,0,geo_regions
+Walmsley,0,geo_regions
+Cowell,0,geo_regions
+Wanerie,0,geo_regions
+Wilberforce,0,geo_regions
+Willare,0,geo_regions
+Williamstown,0,geo_regions
+Willyung,0,geo_regions
+Yabberup,0,geo_regions
+Preston Settlement,0,geo_regions
+Quedjinup,0,geo_regions
+Quinninup,0,geo_regions
+Reinscourt,0,geo_regions
+Roebuck,0,geo_regions
+Rosa Glen,0,geo_regions
+Scotsdale,0,geo_regions
+Somerville,0,geo_regions
+South Boulder,0,geo_regions
+South Yilgarn,0,geo_regions
+Springfield,0,geo_regions
+St George Ranges,0,geo_regions
+Stove Hill,0,geo_regions
+Toolibin,0,geo_regions
+Trent,0,geo_regions
+Warradarge,0,geo_regions
+Warrenup,0,geo_regions
+North Boyanup,0,geo_regions
+North Greenbushes,0,geo_regions
+North Plantations,0,geo_regions
+North West Cape,0,geo_regions
+Ocean Beach,0,geo_regions
+Ord River,0,geo_regions
+Osmington,0,geo_regions
+Pallinup,0,geo_regions
+Peaceful Bay,0,geo_regions
+Picton East,0,geo_regions
+Seabird,0,geo_regions
+Shadforth,0,geo_regions
+Sinclair,0,geo_regions
+Minyirr,0,geo_regions
+Mokine,0,geo_regions
+Molloy Island,0,geo_regions
+Monjingup,0,geo_regions
+Morangup,0,geo_regions
+Morgantown,0,geo_regions
+Mount Hardey,0,geo_regions
+Mount Hardman,0,geo_regions
+Mount Romance,0,geo_regions
+Mount Walker,0,geo_regions
+Muckenburra,0,geo_regions
+Mueller Ranges,0,geo_regions
+Mulataga,0,geo_regions
+Muluckine,0,geo_regions
+Napier,0,geo_regions
+Narrogin Valley,0,geo_regions
+Neergabby,0,geo_regions
+Neridup,0,geo_regions
+Newcarlbeon,0,geo_regions
+Ngaanyatjarra-Giles,0,geo_regions
+Nilgen,0,geo_regions
+Pegs Creek,0,geo_regions
+Karratha Industrial Estate,0,geo_regions
+Kingsford,0,geo_regions
+Konnongorring,0,geo_regions
+Kordabup,0,geo_regions
+Kulin West,0,geo_regions
+Lagrange,0,geo_regions
+Lake Austin,0,geo_regions
+Lesley,0,geo_regions
+Lowden,0,geo_regions
+Ludlow,0,geo_regions
+Macleod,0,geo_regions
+Marbelup,0,geo_regions
+Mardie,0,geo_regions
+Marybrook,0,geo_regions
+Meerup,0,geo_regions
+Middlesex,0,geo_regions
+Glen Iris,0,geo_regions
+Gnarabup,0,geo_regions
+Goode Beach,0,geo_regions
+Greys Plain,0,geo_regions
+Hay,0,geo_regions
+Jalbarragup,0,geo_regions
+Julimar,0,geo_regions
+Kangaroo Gully,0,geo_regions
+Cuballing,0,geo_regions
+Cuthbert,0,geo_regions
+Dale,0,geo_regions
+Dardanup West,0,geo_regions
+Davenport,0,geo_regions
+Djugun,0,geo_regions
+Dumbarton,0,geo_regions
+Outback NSW,0,geo_regions
+Hawkesbury-Nepean,0,geo_regions
+Brockman,0,geo_regions
+Broomehill East,0,geo_regions
+Broomehill Village,0,geo_regions
+Broomehill West,0,geo_regions
+Brown Range,0,geo_regions
+Brunswick,0,geo_regions
+Bulgarra,0,geo_regions
+Burrup,0,geo_regions
+Carey Park,0,geo_regions
+Cardiff,0,geo_regions
+Carrarang,0,geo_regions
+Catterick,0,geo_regions
+Changerup,0,geo_regions
+Chapman Hill,0,geo_regions
+Chidlow,0,geo_regions
+Dumberning,0,geo_regions
+Durack,0,geo_regions
+East Bunbury,0,geo_regions
+East Carnarvon,0,geo_regions
+Eastbrook,0,geo_regions
+Elgin,0,geo_regions
+Ferguson,0,geo_regions
+Fimiston,0,geo_regions
+Forest Grove,0,geo_regions
+Frankland River,0,geo_regions
+Gascoyne River,0,geo_regions
+Gelorup,0,geo_regions
+Geographe,0,geo_regions
+Gibson Desert North,0,geo_regions
+Gilgering,0,geo_regions
+Ginginup,0,geo_regions
+Abbey,0,geo_regions
+Argyle,0,geo_regions
+Arrowsmith East,0,geo_regions
+Bally Bally,0,geo_regions
+Baudin,0,geo_regions
+Big Grove,0,geo_regions
+Bilingurr,0,geo_regions
+Bonniefield,0,geo_regions
+Bovell,0,geo_regions
+Bowes,0,geo_regions
+Broadwater,0,geo_regions
+Broadwood,0,geo_regions
+Wauraltee,0,geo_regions
+Wellington East,0,geo_regions
+Western Flat,0,geo_regions
+Whyalla Jenkins,0,geo_regions
+Whyalla Playford,0,geo_regions
+Whyalla Stuart,0,geo_regions
+Woodleigh,0,geo_regions
+Woods Point,0,geo_regions
+Rocky Camp,0,geo_regions
+Sunnyside,0,geo_regions
+Swanport,0,geo_regions
+Pinks Beach,0,geo_regions
+Port Flinders,0,geo_regions
+Port Mannum,0,geo_regions
+Port Pirie South,0,geo_regions
+Port Pirie West,0,geo_regions
+Prospect Hill,0,geo_regions
+Renmark South,0,geo_regions
+Risdon Park South,0,geo_regions
+Paechtown,0,geo_regions
+Paris Creek,0,geo_regions
+Murray Bridge East,0,geo_regions
+Nelshaby,0,geo_regions
+Nene Valley,0,geo_regions
+New Residence,0,geo_regions
+Northern Heights,0,geo_regions
+Old Calperum,0,geo_regions
+Olympic Dam,0,geo_regions
+Marks Landing,0,geo_regions
+Moorook South,0,geo_regions
+Moppa,0,geo_regions
+Mount Barker Springs,0,geo_regions
+Mount Crawford,0,geo_regions
+Compton,0,geo_regions
+Concordia,0,geo_regions
+Duck Ponds,0,geo_regions
+Encounter Bay,0,geo_regions
+Golden Heights,0,geo_regions
+Hawson,0,geo_regions
+Highland Valley,0,geo_regions
+Keilira,0,geo_regions
+Kelly,0,geo_regions
+Kings Park,0,geo_regions
+Lochaber,0,geo_regions
+Longwood,0,geo_regions
+Lower Inman Valley,0,geo_regions
+Loxton North,0,geo_regions
+Surf Beach,0,geo_regions
+Talgarno,0,geo_regions
+Tallangatta South,0,geo_regions
+Tallangatta Valley,0,geo_regions
+Tambo Upper,0,geo_regions
+Taminick,0,geo_regions
+Tanjil South,0,geo_regions
+Tawonga South,0,geo_regions
+Taylor Bay,0,geo_regions
+Tenby Point,0,geo_regions
+Perth,0,geo_regions
+Tom Groggin,0,geo_regions
+Condamine,0,geo_regions
+Toora North,0,geo_regions
+Toorloo Arm,0,geo_regions
+Trafalgar East,0,geo_regions
+Murray,0,geo_regions
+Traralgon East,0,geo_regions
+Lower Murray Darling,0,geo_regions
+Traralgon South,0,geo_regions
+Upper Gundowring,0,geo_regions
+Vectis,0,geo_regions
+Waldara,0,geo_regions
+Hunter-Central Rivers,0,geo_regions
+Desert Channels,0,geo_regions
+Walmer,0,geo_regions
+Walpa,0,geo_regions
+Wangandary,0,geo_regions
+Western,0,geo_regions
+Wangaratta South,0,geo_regions
+Mackay Whitsunday,0,geo_regions
+Warncoort,0,geo_regions
+Torres Strait,0,geo_regions
+Warragul South,0,geo_regions
+Wartook,0,geo_regions
+Wattle Bank,0,geo_regions
+Wellsford,0,geo_regions
+Welshmans Reef,0,geo_regions
+West Bendigo,0,geo_regions
+Goulburn Broken,0,geo_regions
+Wharparilla,0,geo_regions
+Wheatsheaf,0,geo_regions
+Willung South,0,geo_regions
+Burdekin,0,geo_regions
+Winslow,0,geo_regions
+Southern Gulf,0,geo_regions
+Woodvale,0,geo_regions
+Woolamai,0,geo_regions
+Fitzroy,0,geo_regions
+Bradbury,0,geo_regions
+Brighton,0,geo_regions
+Bugle Hut,0,geo_regions
+Chaffey,0,geo_regions
+Chapel Hill,0,geo_regions
+Leongatha North,0,geo_regions
+Lindenow South,0,geo_regions
+Lockwood,0,geo_regions
+Lyal,0,geo_regions
+Mailors Flat,0,geo_regions
+Mandurang South,0,geo_regions
+Mannibadar,0,geo_regions
+Markwood,0,geo_regions
+McKenzie Hill,0,geo_regions
+McMillans,0,geo_regions
+Mead,0,geo_regions
+Meerlieu,0,geo_regions
+Mepunga East,0,geo_regions
+Mossiface,0,geo_regions
+Mount Camel,0,geo_regions
+Mount Franklin,0,geo_regions
+Mount Rowan,0,geo_regions
+Mount Taylor,0,geo_regions
+Moutajup,0,geo_regions
+Myers Flat,0,geo_regions
+Mystic Park,0,geo_regions
+Nambrok,0,geo_regions
+Nariel Valley,0,geo_regions
+Naringal,0,geo_regions
+Neerim East,0,geo_regions
+Nerrena,0,geo_regions
+Newlyn North,0,geo_regions
+Norong,0,geo_regions
+North Wangaratta,0,geo_regions
+Nungurner,0,geo_regions
+Osbornes Flat,0,geo_regions
+Poowong North,0,geo_regions
+Portland North,0,geo_regions
+Reedy Flat,0,geo_regions
+Riverside,0,geo_regions
+Rosebrook,0,geo_regions
+Russells Bridge,0,geo_regions
+Sarsfield,0,geo_regions
+Shady Creek,0,geo_regions
+Skenes Creek,0,geo_regions
+Smythes Creek,0,geo_regions
+South Dudley,0,geo_regions
+Strzelecki,0,geo_regions
+Sugarloaf Creek,0,geo_regions
+Sulky,0,geo_regions
+Eppalock,0,geo_regions
+Forge Creek,0,geo_regions
+Fulham,0,geo_regions
+Garibaldi,0,geo_regions
+Gentle Annie,0,geo_regions
+Gerang Gerung,0,geo_regions
+Glen Alvie,0,geo_regions
+Glengarry North,0,geo_regions
+Barnawartha North,0,geo_regions
+Barongarook West,0,geo_regions
+Baw Baw,0,geo_regions
+Bete Bolong,0,geo_regions
+Bolwarra,0,geo_regions
+Bookaar,0,geo_regions
+Boolarra South,0,geo_regions
+Boole Poole,0,geo_regions
+Broadwater,0,geo_regions
+Broomfield,0,geo_regions
+Bee Branch Scenic Area,0,geo_regions
+South West,0,geo_regions
+Southern Rivers (Jervis Bay),0,geo_regions
+Border Rivers-Gwydir,0,geo_regions
+South Australian Murray Darling Basin,0,geo_regions
+Alinytjara Wilurara,0,geo_regions
+Southern Rivers,0,geo_regions
+Krowera,0,geo_regions
+Hallora,0,geo_regions
+Ecklin South,0,geo_regions
+Drung,0,geo_regions
+Jung,0,geo_regions
+Kolora,0,geo_regions
+Carngham,0,geo_regions
+Howqua Inlet,0,geo_regions
+East Sale,0,geo_regions
+Leneva,0,geo_regions
+Jeeralang Junction,0,geo_regions
+Kalimna,0,geo_regions
+Kardella,0,geo_regions
+Keely,0,geo_regions
+Laceby,0,geo_regions
+Lake Tyers Beach,0,geo_regions
+Lance Creek,0,geo_regions
+Larralea,0,geo_regions
+Ironbark,0,geo_regions
+Invermay,0,geo_regions
+Hunter,0,geo_regions
+Howqua Hills,0,geo_regions
+Hotham Heights,0,geo_regions
+Hernes Oak,0,geo_regions
+Hazelwood South,0,geo_regions
+Harmers Haven,0,geo_regions
+Hallston,0,geo_regions
+Bunkers Hill,0,geo_regions
+Calulu,0,geo_regions
+Carboor,0,geo_regions
+Clifton Creek,0,geo_regions
+Diggora,0,geo_regions
+Douglas,0,geo_regions
+Dreeite,0,geo_regions
+East Wangaratta,0,geo_regions
+Greta South,0,geo_regions
+Echuca West,0,geo_regions
+Goldie,0,geo_regions
+Ellinbank,0,geo_regions
+Emu Creek,0,geo_regions
+Namoi,0,geo_regions
+Adelaide and Mount Lofty Ranges,0,geo_regions
+Northern Gulf,0,geo_regions
+Northern and Yorke,0,geo_regions
+Lachlan,0,geo_regions
+North,0,geo_regions
+Sydney Metro,0,geo_regions
+Rangelands,0,geo_regions
+Burnett Mary,0,geo_regions
+Murrumbidgee,0,geo_regions
+Port Phillip and Western Port,0,geo_regions
+Corangamite,0,geo_regions
+Border Rivers Maranoa-Balonne,0,geo_regions
+Avon,0,geo_regions
+Northern Agricultural,0,geo_regions
+South East,0,geo_regions
+Northern Rivers - Lord Howe Island,0,geo_regions
+North Central,0,geo_regions
+Cooperative Management Area,0,geo_regions
+South,0,geo_regions
+South Australian Arid Lands,0,geo_regions
+Kowrowa - Mantaka - Mona Mona,0,geo_regions
+High-mountain Asia,0,geo_regions
+Sherwood,0,geo_regions
+Sherwood,0,geo_regions
+Anglophone Africa,0,geo_regions
+Bellfield,0,geo_regions
+Chauga River Scenic Area,0,geo_regions
+"Woodstock, New South Wales",0,geo_regions
+"Woodstock, New South Wales",0,geo_regions
+"Judds Creek, New South Wales",0,geo_regions
+"Mincha, Victoria",0,geo_regions
+"Yatchaw, Victoria",0,geo_regions
+"Buldah, Victoria",0,geo_regions
+"Mamu, Queensland",0,geo_regions
+"Bakers Swamp, New South Wales",0,geo_regions
+Isovsky area,0,geo_regions
+Franeker Vijfdelen,0,geo_regions
+Abington,0,geo_regions
+Mount Cameron,0,geo_regions
+Wooramel,0,geo_regions
+Malu,0,geo_regions
+Red Hill,0,geo_regions
+Derby,0,geo_regions
+Koallah,0,geo_regions
+Wongwibinda,0,geo_regions
+Palerang,0,geo_regions
+Southedge,0,geo_regions
+Upper Wilsons Creek,0,geo_regions
+Hoskin Corner,0,geo_regions
+Ghoolendaadi,0,geo_regions
+South Preston,0,geo_regions
+Glenaubyn,0,geo_regions
+Rixs Creek,0,geo_regions
+Little Pine Lagoon,0,geo_regions
+Baking Board,0,geo_regions
+Steam Plains,0,geo_regions
+Guildford,0,geo_regions
+Buaraba,0,geo_regions
+Coolumbooka,0,geo_regions
+Triangle Flat,0,geo_regions
+Pine Clump,0,geo_regions
+Irwin,0,geo_regions
+Brimbago,0,geo_regions
+Fairy Dell,0,geo_regions
+Mount Hampton,0,geo_regions
+Nurran,0,geo_regions
+Chichester,0,geo_regions
+St Helens Plains,0,geo_regions
+Redgate,0,geo_regions
+Lima East,0,geo_regions
+Toolonga,0,geo_regions
+Abels Bay,0,geo_regions
+Dutson,0,geo_regions
+Barabba,0,geo_regions
+Mount David,0,geo_regions
+Byee,0,geo_regions
+Barringha,0,geo_regions
+Vittoria,0,geo_regions
+Badger Head,0,geo_regions
+Cape Hillsborough,0,geo_regions
+Brittons Swamp,0,geo_regions
+Naughtons Gap,0,geo_regions
+Q38139144,0,geo_regions
+Gulung Mardrulk,0,geo_regions
+Warrah Creek,0,geo_regions
+Yowrie,0,geo_regions
+Boorook,0,geo_regions
+Cundinup,0,geo_regions
+Yarrowford,0,geo_regions
+Dumbalk North,0,geo_regions
+Howitt,0,geo_regions
+Wattle Range East,0,geo_regions
+Nutgrove,0,geo_regions
+Fortis Creek,0,geo_regions
+Q38201311,0,geo_regions
+Abercrombie River,0,geo_regions
+Nairibin,0,geo_regions
+Mountain Bay,0,geo_regions
+Moorleah,0,geo_regions
+Darwin River Dam,0,geo_regions
+Lower Acacia Creek,0,geo_regions
+Bayrick,0,geo_regions
+Delburn,0,geo_regions
+Bushley,0,geo_regions
+Cataract,0,geo_regions
+Normanville,0,geo_regions
+Alice Creek,0,geo_regions
+Bombay,0,geo_regions
+Narraloggan,0,geo_regions
+Kalimna West,0,geo_regions
+Ruthven,0,geo_regions
+Ulyerra,0,geo_regions
+Birdwood,0,geo_regions
+Scott River,0,geo_regions
+Gillentown,0,geo_regions
+Crayfish Creek,0,geo_regions
+Longarm,0,geo_regions
+Walls Of Jerusalem,0,geo_regions
+Mudlo,0,geo_regions
+Beenaam Valley,0,geo_regions
+Eighty Mile Beach,0,geo_regions
+Bungabbee,0,geo_regions
+North Maclagan,0,geo_regions
+Epsom,0,geo_regions
+Hill Top,0,geo_regions
+Upper Horseshoe Creek,0,geo_regions
+Bundi,0,geo_regions
+Antonymyre,0,geo_regions
+Fischer,0,geo_regions
+Chinnock,0,geo_regions
+Baldersleigh,0,geo_regions
+Coojar,0,geo_regions
+Maitland Bar,0,geo_regions
+Chocolyn,0,geo_regions
+Brockley,0,geo_regions
+Tostaree,0,geo_regions
+Wylie Creek,0,geo_regions
+Goranba,0,geo_regions
+Jenolan,0,geo_regions
+Kowguran,0,geo_regions
+Bowser,0,geo_regions
+Bogandilla,0,geo_regions
+Barlyne,0,geo_regions
+Pitfield,0,geo_regions
+Pinkett,0,geo_regions
+Ranceby,0,geo_regions
+Upper Copmanhurst,0,geo_regions
+Hunterston,0,geo_regions
+Thule,0,geo_regions
+Goombargana,0,geo_regions
+Annadale,0,geo_regions
+Kilmorey Falls,0,geo_regions
+Nevilton,0,geo_regions
+Baroondah,0,geo_regions
+Yarras,0,geo_regions
+Ballaying,0,geo_regions
+Hanleys Creek,0,geo_regions
+Galambine,0,geo_regions
+Upper Pinelands,0,geo_regions
+Lords Hill,0,geo_regions
+Jardine,0,geo_regions
+Dukin,0,geo_regions
+Anatye,0,geo_regions
+Kenmare,0,geo_regions
+Bungaba,0,geo_regions
+Cascade,0,geo_regions
+Djarawong,0,geo_regions
+Willina,0,geo_regions
+Charlotte,0,geo_regions
+Eurack,0,geo_regions
+Yaven Creek,0,geo_regions
+Ryeford,0,geo_regions
+Walkers Point,0,geo_regions
+Warnes,0,geo_regions
+Narko,0,geo_regions
+The Narrows,0,geo_regions
+Paddys Flat,0,geo_regions
+Mindarra,0,geo_regions
+Wanganui,0,geo_regions
+Boxwood,0,geo_regions
+Yeodene,0,geo_regions
+Womerah,0,geo_regions
+Mount Cole Creek,0,geo_regions
+Miamoon,0,geo_regions
+Limevale,0,geo_regions
+Mount Sheridan,0,geo_regions
+Bundoora,0,geo_regions
+Galilee,0,geo_regions
+Green Hills,0,geo_regions
+Taradale,0,geo_regions
+McIntyre,0,geo_regions
+Blowering,0,geo_regions
+Oman Ama,0,geo_regions
+Glen Ruth,0,geo_regions
+Smokeytown,0,geo_regions

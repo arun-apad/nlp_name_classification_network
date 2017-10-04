@@ -1,0 +1,2 @@
+id,is_person,str_of_words,count_dict,first_dict,last_dict,nnp_count,verb_count,prepos_count,adject_count,person_count,dt_count,cd_count,adverb_count,modal_count,has_apos,first_name_tag,first_name_low_tag,last_name_tag,last_name_low_tag,has_initial,is_valid_string,count_valid_words,first_valid_word,last_valid_word,word_count
+1.0,1.0,isaugdcaisd,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,['NN'],['NN'],['NNP'],0.0,0.0,0.0,0.0,0.0,0.0,1.0
